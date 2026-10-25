@@ -1,0 +1,6 @@
+
+# Project-specific
+data/
+*.mat
+*.parquet
+.DS_Store

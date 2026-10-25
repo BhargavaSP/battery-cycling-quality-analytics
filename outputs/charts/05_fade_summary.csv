@@ -1,0 +1,5 @@
+cell_id,n_cycles,cap_start_Ah,cap_end_Ah,eol_threshold_Ah,best_model,r2,observed_eol_cycle,predicted_eol_cycle
+B0005,168,1.862,1.29,1.49,exponential,0.9806,352,373
+B0006,168,2.047,1.173,1.637,exponential,0.9826,202,209
+B0007,168,1.919,1.425,1.535,exponential,0.9849,445,442
+B0018,132,1.868,1.361,1.495,exponential,0.958,190,202
