@@ -1,0 +1,2316 @@
+cell_id,cycle,capacity_ah,rule,rule_description
+B0005,2,1.8622028761760747,1,Rule 1: beyond ±3σ
+B0005,4,1.852077780517496,1,Rule 1: beyond ±3σ
+B0005,25,1.8198463697258194,1,Rule 1: beyond ±3σ
+B0005,27,1.8193431380498903,1,Rule 1: beyond ±3σ
+B0005,29,1.8190526034992685,1,Rule 1: beyond ±3σ
+B0005,31,1.8082051440976814,1,Rule 1: beyond ±3σ
+B0005,33,1.8077136446767843,1,Rule 1: beyond ±3σ
+B0005,35,1.8082219386934335,1,Rule 1: beyond ±3σ
+B0005,37,1.808641165126713,1,Rule 1: beyond ±3σ
+B0005,39,1.8083830170483512,1,Rule 1: beyond ±3σ
+B0005,42,1.8526809517157847,1,Rule 1: beyond ±3σ
+B0005,46,1.853025370356926,1,Rule 1: beyond ±3σ
+B0005,66,1.8196343413671214,1,Rule 1: beyond ±3σ
+B0005,70,1.8204078847966052,1,Rule 1: beyond ±3σ
+B0005,74,1.819557980042869,1,Rule 1: beyond ±3σ
+B0005,78,1.8083586231260707,1,Rule 1: beyond ±3σ
+B0005,82,1.8096737051083276,1,Rule 1: beyond ±3σ
+B0005,86,1.8545398087791685,1,Rule 1: beyond ±3σ
+B0005,94,1.822631621806981,1,Rule 1: beyond ±3σ
+B0005,98,1.8120148684612114,1,Rule 1: beyond ±3σ
+B0005,102,1.8073455778605048,1,Rule 1: beyond ±3σ
+B0005,106,1.8021042210122726,1,Rule 1: beyond ±3σ
+B0005,110,1.7911817401222407,1,Rule 1: beyond ±3σ
+B0005,114,1.785652785727741,1,Rule 1: beyond ±3σ
+B0005,118,1.7757680509403477,1,Rule 1: beyond ±3σ
+B0005,122,1.7758330823316952,1,Rule 1: beyond ±3σ
+B0005,126,1.7706263567624057,1,Rule 1: beyond ±3σ
+B0005,130,1.7650847974128527,1,Rule 1: beyond ±3σ
+B0005,134,1.7732304675886927,1,Rule 1: beyond ±3σ
+B0005,136,1.7654093987717652,1,Rule 1: beyond ±3σ
+B0005,140,1.7545026581626977,1,Rule 1: beyond ±3σ
+B0005,144,1.7446238642540073,1,Rule 1: beyond ±3σ
+B0005,148,1.738861928453165,1,Rule 1: beyond ±3σ
+B0005,150,1.7963381260257314,1,Rule 1: beyond ±3σ
+B0005,154,1.7858902481387526,1,Rule 1: beyond ±3σ
+B0005,158,1.7700748256296013,1,Rule 1: beyond ±3σ
+B0005,162,1.7598023013937372,1,Rule 1: beyond ±3σ
+B0005,166,1.7496586843283426,1,Rule 1: beyond ±3σ
+B0005,170,1.7444839933626877,1,Rule 1: beyond ±3σ
+B0005,174,1.7392066611099657,1,Rule 1: beyond ±3σ
+B0005,178,1.729119687729052,1,Rule 1: beyond ±3σ
+B0005,182,1.7185794654135103,1,Rule 1: beyond ±3σ
+B0005,186,1.713321902647502,1,Rule 1: beyond ±3σ
+B0005,190,1.7087878523122688,1,Rule 1: beyond ±3σ
+B0005,194,1.7030906402649453,1,Rule 1: beyond ±3σ
+B0005,198,1.6973763911840574,1,Rule 1: beyond ±3σ
+B0005,202,1.687655688706419,1,Rule 1: beyond ±3σ
+B0005,206,1.677283117965155,1,Rule 1: beyond ±3σ
+B0005,210,1.677367579447902,1,Rule 1: beyond ±3σ
+B0005,214,1.6665168352970694,1,Rule 1: beyond ±3σ
+B0005,216,1.6618094081399768,1,Rule 1: beyond ±3σ
+B0005,220,1.656667130803933,1,Rule 1: beyond ±3σ
+B0005,224,1.6454612041160956,1,Rule 1: beyond ±3σ
+B0005,228,1.6406631692652967,1,Rule 1: beyond ±3σ
+B0005,232,1.6355225678534149,1,Rule 1: beyond ±3σ
+B0005,236,1.6305831995255629,1,Rule 1: beyond ±3σ
+B0005,240,1.6249041731525151,1,Rule 1: beyond ±3σ
+B0005,244,1.6141735401360389,1,Rule 1: beyond ±3σ
+B0005,248,1.6093783928934964,1,Rule 1: beyond ±3σ
+B0005,252,1.6043484793426852,1,Rule 1: beyond ±3σ
+B0005,256,1.5932105903501057,1,Rule 1: beyond ±3σ
+B0005,260,1.5886364832867264,1,Rule 1: beyond ±3σ
+B0005,264,1.5877768554948954,1,Rule 1: beyond ±3σ
+B0005,266,1.598319979397816,1,Rule 1: beyond ±3σ
+B0005,270,1.5775704607498526,1,Rule 1: beyond ±3σ
+B0005,274,1.567712078419836,1,Rule 1: beyond ±3σ
+B0005,278,1.5626347890234091,1,Rule 1: beyond ±3σ
+B0005,282,1.5623270339266233,1,Rule 1: beyond ±3σ
+B0005,286,1.5575841438159184,1,Rule 1: beyond ±3σ
+B0005,290,1.5517039247947313,1,Rule 1: beyond ±3σ
+B0005,294,1.5410637467478043,1,Rule 1: beyond ±3σ
+B0005,298,1.530754432026021,1,Rule 1: beyond ±3σ
+B0005,302,1.5313879264373342,1,Rule 1: beyond ±3σ
+B0005,306,1.5255393237469248,1,Rule 1: beyond ±3σ
+B0005,310,1.5203995123152785,1,Rule 1: beyond ±3σ
+B0005,313,1.6086429679849252,1,Rule 1: beyond ±3σ
+B0005,316,1.5666770365027176,1,Rule 1: beyond ±3σ
+B0005,320,1.55092813277257,1,Rule 1: beyond ±3σ
+B0005,324,1.535251100320192,1,Rule 1: beyond ±3σ
+B0005,328,1.529833465491128,1,Rule 1: beyond ±3σ
+B0005,332,1.5198305658357811,1,Rule 1: beyond ±3σ
+B0005,336,1.5147978516375922,1,Rule 1: beyond ±3σ
+B0005,340,1.5094442314987477,1,Rule 1: beyond ±3σ
+B0005,344,1.5044441128742918,1,Rule 1: beyond ±3σ
+B0005,348,1.4937377998375865,1,Rule 1: beyond ±3σ
+B0005,352,1.488781083765113,1,Rule 1: beyond ±3σ
+B0005,356,1.483275694734619,1,Rule 1: beyond ±3σ
+B0005,360,1.4780664710356213,1,Rule 1: beyond ±3σ
+B0005,364,1.488774719753461,1,Rule 1: beyond ±3σ
+B0005,367,1.499006053181257,1,Rule 1: beyond ±3σ
+B0005,371,1.483694098516326,1,Rule 1: beyond ±3σ
+B0005,375,1.472622912706386,1,Rule 1: beyond ±3σ
+B0005,379,1.4568215646542753,1,Rule 1: beyond ±3σ
+B0005,383,1.4570506687226927,1,Rule 1: beyond ±3σ
+B0005,387,1.457905153084637,1,Rule 1: beyond ±3σ
+B0005,391,1.4519390460066037,1,Rule 1: beyond ±3σ
+B0005,395,1.4415351972566752,1,Rule 1: beyond ±3σ
+B0005,399,1.4363703191161,1,Rule 1: beyond ±3σ
+B0005,403,1.4363010479982834,1,Rule 1: beyond ±3σ
+B0005,407,1.4309326540458258,1,Rule 1: beyond ±3σ
+B0005,411,1.4257847397728802,1,Rule 1: beyond ±3σ
+B0005,415,1.4202915200747075,1,Rule 1: beyond ±3σ
+B0005,419,1.4153335483519918,1,Rule 1: beyond ±3σ
+B0005,423,1.4154569549466542,1,Rule 1: beyond ±3σ
+B0005,427,1.4105336923381644,1,Rule 1: beyond ±3σ
+B0005,431,1.4362924898976053,1,Rule 1: beyond ±3σ
+B0005,433,1.441153232756685,1,Rule 1: beyond ±3σ
+B0005,437,1.4202402661905456,1,Rule 1: beyond ±3σ
+B0005,441,1.4098717460926173,1,Rule 1: beyond ±3σ
+B0005,445,1.4040884709475545,1,Rule 1: beyond ±3σ
+B0005,449,1.399608359298767,1,Rule 1: beyond ±3σ
+B0005,453,1.3941729280301336,1,Rule 1: beyond ±3σ
+B0005,457,1.3890898805031338,1,Rule 1: beyond ±3σ
+B0005,461,1.3833026424056671,1,Rule 1: beyond ±3σ
+B0005,465,1.3781229872388638,1,Rule 1: beyond ±3σ
+B0005,469,1.3733895596398806,1,Rule 1: beyond ±3σ
+B0005,473,1.3733693330387395,1,Rule 1: beyond ±3σ
+B0005,477,1.3675993107399471,1,Rule 1: beyond ±3σ
+B0005,481,1.3782569243514007,1,Rule 1: beyond ±3σ
+B0005,483,1.3889752972903326,1,Rule 1: beyond ±3σ
+B0005,485,1.3727097052090094,1,Rule 1: beyond ±3σ
+B0005,489,1.3676557860581944,1,Rule 1: beyond ±3σ
+B0005,493,1.3572049541937385,1,Rule 1: beyond ±3σ
+B0005,497,1.3575443000991398,1,Rule 1: beyond ±3σ
+B0005,501,1.3575874531026293,1,Rule 1: beyond ±3σ
+B0005,505,1.352201858263249,1,Rule 1: beyond ±3σ
+B0005,509,1.347071431342232,1,Rule 1: beyond ±3σ
+B0005,513,1.3419131593914597,1,Rule 1: beyond ±3σ
+B0005,517,1.3418085169493579,1,Rule 1: beyond ±3σ
+B0005,521,1.3368798896373315,1,Rule 1: beyond ±3σ
+B0005,525,1.3315377043884469,1,Rule 1: beyond ±3σ
+B0005,529,1.3261008242885641,1,Rule 1: beyond ±3σ
+B0005,533,1.321089274209887,1,Rule 1: beyond ±3σ
+B0005,537,1.3214610306828443,1,Rule 1: beyond ±3σ
+B0005,541,1.3212235933130205,1,Rule 1: beyond ±3σ
+B0005,545,1.3267859444088324,1,Rule 1: beyond ±3σ
+B0005,548,1.3629880512957586,1,Rule 1: beyond ±3σ
+B0005,552,1.3424704924195228,1,Rule 1: beyond ±3σ
+B0005,556,1.3319227509015545,1,Rule 1: beyond ±3σ
+B0005,560,1.3266040129628967,1,Rule 1: beyond ±3σ
+B0005,564,1.3215790821926703,1,Rule 1: beyond ±3σ
+B0005,568,1.3164267323866903,1,Rule 1: beyond ±3σ
+B0005,572,1.3160961812271215,1,Rule 1: beyond ±3σ
+B0005,576,1.310760701607795,1,Rule 1: beyond ±3σ
+B0005,580,1.3059667724194781,1,Rule 1: beyond ±3σ
+B0005,584,1.3062665691898216,1,Rule 1: beyond ±3σ
+B0005,588,1.3063229222545856,1,Rule 1: beyond ±3σ
+B0005,592,1.3008298414983879,1,Rule 1: beyond ±3σ
+B0005,596,1.3010620975626164,1,Rule 1: beyond ±3σ
+B0005,600,1.2964529220440137,1,Rule 1: beyond ±3σ
+B0005,604,1.29095770818731,1,Rule 1: beyond ±3σ
+B0005,608,1.2903909497267576,1,Rule 1: beyond ±3σ
+B0005,612,1.3119030524394601,1,Rule 1: beyond ±3σ
+B0005,614,1.32798489156344,1,Rule 1: beyond ±3σ
+B0005,6,1.8410487396827961,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,27,1.8193431380498903,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,29,1.8190526034992685,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,31,1.8082051440976814,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,33,1.8077136446767843,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,35,1.8082219386934335,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,37,1.808641165126713,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,39,1.8083830170483512,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,42,1.8526809517157847,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,46,1.853025370356926,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,50,1.8418324666438906,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,54,1.831469528491523,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,70,1.8204078847966052,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,74,1.819557980042869,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,78,1.8083586231260707,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,82,1.8096737051083276,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,86,1.8545398087791685,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,98,1.8120148684612114,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,102,1.8073455778605048,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,106,1.8021042210122726,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,110,1.7911817401222407,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,114,1.785652785727741,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,118,1.7757680509403477,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,122,1.7758330823316952,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,126,1.7706263567624057,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,130,1.7650847974128527,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,134,1.7732304675886927,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,136,1.7654093987717652,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,140,1.7545026581626977,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,144,1.7446238642540073,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,148,1.738861928453165,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,150,1.7963381260257314,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,154,1.7858902481387526,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,158,1.7700748256296013,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,162,1.7598023013937372,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,166,1.7496586843283426,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,170,1.7444839933626877,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,174,1.7392066611099657,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,178,1.729119687729052,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,182,1.7185794654135103,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,186,1.713321902647502,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,190,1.7087878523122688,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,194,1.7030906402649453,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,198,1.6973763911840574,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,202,1.687655688706419,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,206,1.677283117965155,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,210,1.677367579447902,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,214,1.6665168352970694,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,216,1.6618094081399768,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,220,1.656667130803933,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,224,1.6454612041160956,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,228,1.6406631692652967,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,232,1.6355225678534149,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,236,1.6305831995255629,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,240,1.6249041731525151,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,244,1.6141735401360389,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,248,1.6093783928934964,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,252,1.6043484793426852,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,256,1.5932105903501057,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,260,1.5886364832867264,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,264,1.5877768554948954,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,266,1.598319979397816,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,270,1.5775704607498526,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,274,1.567712078419836,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,278,1.5626347890234091,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,282,1.5623270339266233,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,286,1.5575841438159184,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,290,1.5517039247947313,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,294,1.5410637467478043,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,298,1.530754432026021,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,302,1.5313879264373342,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,306,1.5255393237469248,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,310,1.5203995123152785,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,313,1.6086429679849252,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,316,1.5666770365027176,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,320,1.55092813277257,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,324,1.535251100320192,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,328,1.529833465491128,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,332,1.5198305658357811,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,336,1.5147978516375922,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,340,1.5094442314987477,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,344,1.5044441128742918,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,348,1.4937377998375865,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,352,1.488781083765113,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,356,1.483275694734619,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,360,1.4780664710356213,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,364,1.488774719753461,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,367,1.499006053181257,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,371,1.483694098516326,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,375,1.472622912706386,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,379,1.4568215646542753,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,383,1.4570506687226927,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,387,1.457905153084637,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,391,1.4519390460066037,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,395,1.4415351972566752,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,399,1.4363703191161,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,403,1.4363010479982834,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,407,1.4309326540458258,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,411,1.4257847397728802,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,415,1.4202915200747075,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,419,1.4153335483519918,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,423,1.4154569549466542,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,427,1.4105336923381644,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,431,1.4362924898976053,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,433,1.441153232756685,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,437,1.4202402661905456,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,441,1.4098717460926173,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,445,1.4040884709475545,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,449,1.399608359298767,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,453,1.3941729280301336,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,457,1.3890898805031338,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,461,1.3833026424056671,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,465,1.3781229872388638,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,469,1.3733895596398806,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,473,1.3733693330387395,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,477,1.3675993107399471,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,481,1.3782569243514007,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,483,1.3889752972903326,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,485,1.3727097052090094,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,489,1.3676557860581944,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,493,1.3572049541937385,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,497,1.3575443000991398,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,501,1.3575874531026293,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,505,1.352201858263249,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,509,1.347071431342232,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,513,1.3419131593914597,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,517,1.3418085169493579,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,521,1.3368798896373315,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,525,1.3315377043884469,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,529,1.3261008242885641,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,533,1.321089274209887,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,537,1.3214610306828443,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,541,1.3212235933130205,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,545,1.3267859444088324,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,548,1.3629880512957586,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,552,1.3424704924195228,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,556,1.3319227509015545,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,560,1.3266040129628967,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,564,1.3215790821926703,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,568,1.3164267323866903,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,572,1.3160961812271215,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,576,1.310760701607795,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,580,1.3059667724194781,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,584,1.3062665691898216,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,588,1.3063229222545856,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,592,1.3008298414983879,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,596,1.3010620975626164,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,600,1.2964529220440137,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,604,1.29095770818731,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,608,1.2903909497267576,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,612,1.3119030524394601,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,614,1.32798489156344,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0005,10,1.8403599290669193,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,12,1.8413272042220796,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,14,1.840831297831913,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,16,1.8314394902034128,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,22,1.8302456206859818,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,25,1.8198463697258194,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,27,1.8193431380498903,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,29,1.8190526034992685,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,31,1.8082051440976814,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,33,1.8077136446767843,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,35,1.8082219386934335,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,37,1.808641165126713,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,39,1.8083830170483512,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,42,1.8526809517157847,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,66,1.8196343413671214,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,70,1.8204078847966052,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,74,1.819557980042869,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,78,1.8083586231260707,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,82,1.8096737051083276,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,86,1.8545398087791685,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,106,1.8021042210122726,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,110,1.7911817401222407,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,114,1.785652785727741,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,118,1.7757680509403477,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,122,1.7758330823316952,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,126,1.7706263567624057,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,130,1.7650847974128527,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,134,1.7732304675886927,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,136,1.7654093987717652,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,140,1.7545026581626977,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,144,1.7446238642540073,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,148,1.738861928453165,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,150,1.7963381260257314,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,154,1.7858902481387526,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,158,1.7700748256296013,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,162,1.7598023013937372,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,166,1.7496586843283426,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,170,1.7444839933626877,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,174,1.7392066611099657,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,178,1.729119687729052,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,182,1.7185794654135103,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,186,1.713321902647502,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,190,1.7087878523122688,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,194,1.7030906402649453,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,198,1.6973763911840574,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,202,1.687655688706419,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,206,1.677283117965155,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,210,1.677367579447902,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,214,1.6665168352970694,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,216,1.6618094081399768,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,220,1.656667130803933,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,224,1.6454612041160956,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,228,1.6406631692652967,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,232,1.6355225678534149,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,236,1.6305831995255629,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,240,1.6249041731525151,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,244,1.6141735401360389,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,248,1.6093783928934964,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,252,1.6043484793426852,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,256,1.5932105903501057,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,260,1.5886364832867264,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,264,1.5877768554948954,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,266,1.598319979397816,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,270,1.5775704607498526,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,274,1.567712078419836,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,278,1.5626347890234091,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,282,1.5623270339266233,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,286,1.5575841438159184,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,290,1.5517039247947313,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,294,1.5410637467478043,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,298,1.530754432026021,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,302,1.5313879264373342,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,306,1.5255393237469248,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,310,1.5203995123152785,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,313,1.6086429679849252,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,316,1.5666770365027176,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,320,1.55092813277257,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,324,1.535251100320192,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,328,1.529833465491128,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,332,1.5198305658357811,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,336,1.5147978516375922,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,340,1.5094442314987477,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,344,1.5044441128742918,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,348,1.4937377998375865,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,352,1.488781083765113,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,356,1.483275694734619,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,360,1.4780664710356213,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,364,1.488774719753461,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,367,1.499006053181257,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,371,1.483694098516326,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,375,1.472622912706386,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,379,1.4568215646542753,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,383,1.4570506687226927,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,387,1.457905153084637,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,391,1.4519390460066037,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,395,1.4415351972566752,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,399,1.4363703191161,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,403,1.4363010479982834,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,407,1.4309326540458258,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,411,1.4257847397728802,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,415,1.4202915200747075,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,419,1.4153335483519918,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,423,1.4154569549466542,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,427,1.4105336923381644,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,431,1.4362924898976053,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,433,1.441153232756685,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,437,1.4202402661905456,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,441,1.4098717460926173,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,445,1.4040884709475545,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,449,1.399608359298767,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,453,1.3941729280301336,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,457,1.3890898805031338,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,461,1.3833026424056671,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,465,1.3781229872388638,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,469,1.3733895596398806,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,473,1.3733693330387395,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,477,1.3675993107399471,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,481,1.3782569243514007,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,483,1.3889752972903326,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,485,1.3727097052090094,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,489,1.3676557860581944,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,493,1.3572049541937385,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,497,1.3575443000991398,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,501,1.3575874531026293,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,505,1.352201858263249,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,509,1.347071431342232,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,513,1.3419131593914597,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,517,1.3418085169493579,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,521,1.3368798896373315,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,525,1.3315377043884469,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,529,1.3261008242885641,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,533,1.321089274209887,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,537,1.3214610306828443,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,541,1.3212235933130205,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,545,1.3267859444088324,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,548,1.3629880512957586,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,552,1.3424704924195228,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,556,1.3319227509015545,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,560,1.3266040129628967,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,564,1.3215790821926703,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,568,1.3164267323866903,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,572,1.3160961812271215,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,576,1.310760701607795,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,580,1.3059667724194781,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,584,1.3062665691898216,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,588,1.3063229222545856,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,592,1.3008298414983879,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,596,1.3010620975626164,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,600,1.2964529220440137,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,604,1.29095770818731,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,608,1.2903909497267576,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,612,1.3119030524394601,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,614,1.32798489156344,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0005,31,1.8082051440976814,4,Rule 4: 8 consecutive on same side of centerline
+B0005,33,1.8077136446767843,4,Rule 4: 8 consecutive on same side of centerline
+B0005,35,1.8082219386934335,4,Rule 4: 8 consecutive on same side of centerline
+B0005,37,1.808641165126713,4,Rule 4: 8 consecutive on same side of centerline
+B0005,39,1.8083830170483512,4,Rule 4: 8 consecutive on same side of centerline
+B0005,82,1.8096737051083276,4,Rule 4: 8 consecutive on same side of centerline
+B0005,118,1.7757680509403477,4,Rule 4: 8 consecutive on same side of centerline
+B0005,122,1.7758330823316952,4,Rule 4: 8 consecutive on same side of centerline
+B0005,126,1.7706263567624057,4,Rule 4: 8 consecutive on same side of centerline
+B0005,130,1.7650847974128527,4,Rule 4: 8 consecutive on same side of centerline
+B0005,134,1.7732304675886927,4,Rule 4: 8 consecutive on same side of centerline
+B0005,136,1.7654093987717652,4,Rule 4: 8 consecutive on same side of centerline
+B0005,140,1.7545026581626977,4,Rule 4: 8 consecutive on same side of centerline
+B0005,144,1.7446238642540073,4,Rule 4: 8 consecutive on same side of centerline
+B0005,148,1.738861928453165,4,Rule 4: 8 consecutive on same side of centerline
+B0005,150,1.7963381260257314,4,Rule 4: 8 consecutive on same side of centerline
+B0005,154,1.7858902481387526,4,Rule 4: 8 consecutive on same side of centerline
+B0005,158,1.7700748256296013,4,Rule 4: 8 consecutive on same side of centerline
+B0005,162,1.7598023013937372,4,Rule 4: 8 consecutive on same side of centerline
+B0005,166,1.7496586843283426,4,Rule 4: 8 consecutive on same side of centerline
+B0005,170,1.7444839933626877,4,Rule 4: 8 consecutive on same side of centerline
+B0005,174,1.7392066611099657,4,Rule 4: 8 consecutive on same side of centerline
+B0005,178,1.729119687729052,4,Rule 4: 8 consecutive on same side of centerline
+B0005,182,1.7185794654135103,4,Rule 4: 8 consecutive on same side of centerline
+B0005,186,1.713321902647502,4,Rule 4: 8 consecutive on same side of centerline
+B0005,190,1.7087878523122688,4,Rule 4: 8 consecutive on same side of centerline
+B0005,194,1.7030906402649453,4,Rule 4: 8 consecutive on same side of centerline
+B0005,198,1.6973763911840574,4,Rule 4: 8 consecutive on same side of centerline
+B0005,202,1.687655688706419,4,Rule 4: 8 consecutive on same side of centerline
+B0005,206,1.677283117965155,4,Rule 4: 8 consecutive on same side of centerline
+B0005,210,1.677367579447902,4,Rule 4: 8 consecutive on same side of centerline
+B0005,214,1.6665168352970694,4,Rule 4: 8 consecutive on same side of centerline
+B0005,216,1.6618094081399768,4,Rule 4: 8 consecutive on same side of centerline
+B0005,220,1.656667130803933,4,Rule 4: 8 consecutive on same side of centerline
+B0005,224,1.6454612041160956,4,Rule 4: 8 consecutive on same side of centerline
+B0005,228,1.6406631692652967,4,Rule 4: 8 consecutive on same side of centerline
+B0005,232,1.6355225678534149,4,Rule 4: 8 consecutive on same side of centerline
+B0005,236,1.6305831995255629,4,Rule 4: 8 consecutive on same side of centerline
+B0005,240,1.6249041731525151,4,Rule 4: 8 consecutive on same side of centerline
+B0005,244,1.6141735401360389,4,Rule 4: 8 consecutive on same side of centerline
+B0005,248,1.6093783928934964,4,Rule 4: 8 consecutive on same side of centerline
+B0005,252,1.6043484793426852,4,Rule 4: 8 consecutive on same side of centerline
+B0005,256,1.5932105903501057,4,Rule 4: 8 consecutive on same side of centerline
+B0005,260,1.5886364832867264,4,Rule 4: 8 consecutive on same side of centerline
+B0005,264,1.5877768554948954,4,Rule 4: 8 consecutive on same side of centerline
+B0005,266,1.598319979397816,4,Rule 4: 8 consecutive on same side of centerline
+B0005,270,1.5775704607498526,4,Rule 4: 8 consecutive on same side of centerline
+B0005,274,1.567712078419836,4,Rule 4: 8 consecutive on same side of centerline
+B0005,278,1.5626347890234091,4,Rule 4: 8 consecutive on same side of centerline
+B0005,282,1.5623270339266233,4,Rule 4: 8 consecutive on same side of centerline
+B0005,286,1.5575841438159184,4,Rule 4: 8 consecutive on same side of centerline
+B0005,290,1.5517039247947313,4,Rule 4: 8 consecutive on same side of centerline
+B0005,294,1.5410637467478043,4,Rule 4: 8 consecutive on same side of centerline
+B0005,298,1.530754432026021,4,Rule 4: 8 consecutive on same side of centerline
+B0005,302,1.5313879264373342,4,Rule 4: 8 consecutive on same side of centerline
+B0005,306,1.5255393237469248,4,Rule 4: 8 consecutive on same side of centerline
+B0005,310,1.5203995123152785,4,Rule 4: 8 consecutive on same side of centerline
+B0005,313,1.6086429679849252,4,Rule 4: 8 consecutive on same side of centerline
+B0005,316,1.5666770365027176,4,Rule 4: 8 consecutive on same side of centerline
+B0005,320,1.55092813277257,4,Rule 4: 8 consecutive on same side of centerline
+B0005,324,1.535251100320192,4,Rule 4: 8 consecutive on same side of centerline
+B0005,328,1.529833465491128,4,Rule 4: 8 consecutive on same side of centerline
+B0005,332,1.5198305658357811,4,Rule 4: 8 consecutive on same side of centerline
+B0005,336,1.5147978516375922,4,Rule 4: 8 consecutive on same side of centerline
+B0005,340,1.5094442314987477,4,Rule 4: 8 consecutive on same side of centerline
+B0005,344,1.5044441128742918,4,Rule 4: 8 consecutive on same side of centerline
+B0005,348,1.4937377998375865,4,Rule 4: 8 consecutive on same side of centerline
+B0005,352,1.488781083765113,4,Rule 4: 8 consecutive on same side of centerline
+B0005,356,1.483275694734619,4,Rule 4: 8 consecutive on same side of centerline
+B0005,360,1.4780664710356213,4,Rule 4: 8 consecutive on same side of centerline
+B0005,364,1.488774719753461,4,Rule 4: 8 consecutive on same side of centerline
+B0005,367,1.499006053181257,4,Rule 4: 8 consecutive on same side of centerline
+B0005,371,1.483694098516326,4,Rule 4: 8 consecutive on same side of centerline
+B0005,375,1.472622912706386,4,Rule 4: 8 consecutive on same side of centerline
+B0005,379,1.4568215646542753,4,Rule 4: 8 consecutive on same side of centerline
+B0005,383,1.4570506687226927,4,Rule 4: 8 consecutive on same side of centerline
+B0005,387,1.457905153084637,4,Rule 4: 8 consecutive on same side of centerline
+B0005,391,1.4519390460066037,4,Rule 4: 8 consecutive on same side of centerline
+B0005,395,1.4415351972566752,4,Rule 4: 8 consecutive on same side of centerline
+B0005,399,1.4363703191161,4,Rule 4: 8 consecutive on same side of centerline
+B0005,403,1.4363010479982834,4,Rule 4: 8 consecutive on same side of centerline
+B0005,407,1.4309326540458258,4,Rule 4: 8 consecutive on same side of centerline
+B0005,411,1.4257847397728802,4,Rule 4: 8 consecutive on same side of centerline
+B0005,415,1.4202915200747075,4,Rule 4: 8 consecutive on same side of centerline
+B0005,419,1.4153335483519918,4,Rule 4: 8 consecutive on same side of centerline
+B0005,423,1.4154569549466542,4,Rule 4: 8 consecutive on same side of centerline
+B0005,427,1.4105336923381644,4,Rule 4: 8 consecutive on same side of centerline
+B0005,431,1.4362924898976053,4,Rule 4: 8 consecutive on same side of centerline
+B0005,433,1.441153232756685,4,Rule 4: 8 consecutive on same side of centerline
+B0005,437,1.4202402661905456,4,Rule 4: 8 consecutive on same side of centerline
+B0005,441,1.4098717460926173,4,Rule 4: 8 consecutive on same side of centerline
+B0005,445,1.4040884709475545,4,Rule 4: 8 consecutive on same side of centerline
+B0005,449,1.399608359298767,4,Rule 4: 8 consecutive on same side of centerline
+B0005,453,1.3941729280301336,4,Rule 4: 8 consecutive on same side of centerline
+B0005,457,1.3890898805031338,4,Rule 4: 8 consecutive on same side of centerline
+B0005,461,1.3833026424056671,4,Rule 4: 8 consecutive on same side of centerline
+B0005,465,1.3781229872388638,4,Rule 4: 8 consecutive on same side of centerline
+B0005,469,1.3733895596398806,4,Rule 4: 8 consecutive on same side of centerline
+B0005,473,1.3733693330387395,4,Rule 4: 8 consecutive on same side of centerline
+B0005,477,1.3675993107399471,4,Rule 4: 8 consecutive on same side of centerline
+B0005,481,1.3782569243514007,4,Rule 4: 8 consecutive on same side of centerline
+B0005,483,1.3889752972903326,4,Rule 4: 8 consecutive on same side of centerline
+B0005,485,1.3727097052090094,4,Rule 4: 8 consecutive on same side of centerline
+B0005,489,1.3676557860581944,4,Rule 4: 8 consecutive on same side of centerline
+B0005,493,1.3572049541937385,4,Rule 4: 8 consecutive on same side of centerline
+B0005,497,1.3575443000991398,4,Rule 4: 8 consecutive on same side of centerline
+B0005,501,1.3575874531026293,4,Rule 4: 8 consecutive on same side of centerline
+B0005,505,1.352201858263249,4,Rule 4: 8 consecutive on same side of centerline
+B0005,509,1.347071431342232,4,Rule 4: 8 consecutive on same side of centerline
+B0005,513,1.3419131593914597,4,Rule 4: 8 consecutive on same side of centerline
+B0005,517,1.3418085169493579,4,Rule 4: 8 consecutive on same side of centerline
+B0005,521,1.3368798896373315,4,Rule 4: 8 consecutive on same side of centerline
+B0005,525,1.3315377043884469,4,Rule 4: 8 consecutive on same side of centerline
+B0005,529,1.3261008242885641,4,Rule 4: 8 consecutive on same side of centerline
+B0005,533,1.321089274209887,4,Rule 4: 8 consecutive on same side of centerline
+B0005,537,1.3214610306828443,4,Rule 4: 8 consecutive on same side of centerline
+B0005,541,1.3212235933130205,4,Rule 4: 8 consecutive on same side of centerline
+B0005,545,1.3267859444088324,4,Rule 4: 8 consecutive on same side of centerline
+B0005,548,1.3629880512957586,4,Rule 4: 8 consecutive on same side of centerline
+B0005,552,1.3424704924195228,4,Rule 4: 8 consecutive on same side of centerline
+B0005,556,1.3319227509015545,4,Rule 4: 8 consecutive on same side of centerline
+B0005,560,1.3266040129628967,4,Rule 4: 8 consecutive on same side of centerline
+B0005,564,1.3215790821926703,4,Rule 4: 8 consecutive on same side of centerline
+B0005,568,1.3164267323866903,4,Rule 4: 8 consecutive on same side of centerline
+B0005,572,1.3160961812271215,4,Rule 4: 8 consecutive on same side of centerline
+B0005,576,1.310760701607795,4,Rule 4: 8 consecutive on same side of centerline
+B0005,580,1.3059667724194781,4,Rule 4: 8 consecutive on same side of centerline
+B0005,584,1.3062665691898216,4,Rule 4: 8 consecutive on same side of centerline
+B0005,588,1.3063229222545856,4,Rule 4: 8 consecutive on same side of centerline
+B0005,592,1.3008298414983879,4,Rule 4: 8 consecutive on same side of centerline
+B0005,596,1.3010620975626164,4,Rule 4: 8 consecutive on same side of centerline
+B0005,600,1.2964529220440137,4,Rule 4: 8 consecutive on same side of centerline
+B0005,604,1.29095770818731,4,Rule 4: 8 consecutive on same side of centerline
+B0005,608,1.2903909497267576,4,Rule 4: 8 consecutive on same side of centerline
+B0005,612,1.3119030524394601,4,Rule 4: 8 consecutive on same side of centerline
+B0005,614,1.32798489156344,4,Rule 4: 8 consecutive on same side of centerline
+B0006,2,2.0467027976309904,1,Rule 1: beyond ±3σ
+B0006,4,2.036565727155805,1,Rule 1: beyond ±3σ
+B0006,6,2.0247293324555025,1,Rule 1: beyond ±3σ
+B0006,12,2.0252745663966842,1,Rule 1: beyond ±3σ
+B0006,14,2.0244845012390646,1,Rule 1: beyond ±3σ
+B0006,22,1.9568576537310198,1,Rule 1: beyond ±3σ
+B0006,25,1.9347505044841131,1,Rule 1: beyond ±3σ
+B0006,27,1.9232799539368028,1,Rule 1: beyond ±3σ
+B0006,29,1.9231418479471192,1,Rule 1: beyond ±3σ
+B0006,31,1.9123037750088228,1,Rule 1: beyond ±3σ
+B0006,33,1.9004733636832007,1,Rule 1: beyond ±3σ
+B0006,35,1.8894418521024605,1,Rule 1: beyond ±3σ
+B0006,37,1.8787595848221554,1,Rule 1: beyond ±3σ
+B0006,39,1.8732149840310968,1,Rule 1: beyond ±3σ
+B0006,50,1.9571028081380615,1,Rule 1: beyond ±3σ
+B0006,54,1.9356074980404325,1,Rule 1: beyond ±3σ
+B0006,58,1.945981133142164,1,Rule 1: beyond ±3σ
+B0006,62,1.9014079305530798,1,Rule 1: beyond ±3σ
+B0006,66,1.895507704327033,1,Rule 1: beyond ±3σ
+B0006,70,1.885139749897619,1,Rule 1: beyond ±3σ
+B0006,74,1.872772471846588,1,Rule 1: beyond ±3σ
+B0006,78,1.850825166359206,1,Rule 1: beyond ±3σ
+B0006,82,1.8740751609970479,1,Rule 1: beyond ±3σ
+B0006,86,1.9302725535450327,1,Rule 1: beyond ±3σ
+B0006,90,1.8903755105957254,1,Rule 1: beyond ±3σ
+B0006,94,1.8687043585221015,1,Rule 1: beyond ±3σ
+B0006,98,1.85263037020511,1,Rule 1: beyond ±3σ
+B0006,102,1.8318592092700148,1,Rule 1: beyond ±3σ
+B0006,106,1.8268835356265334,1,Rule 1: beyond ±3σ
+B0006,110,1.8105214250184154,1,Rule 1: beyond ±3σ
+B0006,114,1.794452250569754,1,Rule 1: beyond ±3σ
+B0006,118,1.784457124597187,1,Rule 1: beyond ±3σ
+B0006,122,1.7737266783224712,1,Rule 1: beyond ±3σ
+B0006,126,1.7635421946147194,1,Rule 1: beyond ±3σ
+B0006,130,1.7527224316529635,1,Rule 1: beyond ±3σ
+B0006,134,1.7712668853166194,1,Rule 1: beyond ±3σ
+B0006,136,1.7793486320201701,1,Rule 1: beyond ±3σ
+B0006,140,1.7470274349833859,1,Rule 1: beyond ±3σ
+B0006,144,1.7265534634619577,1,Rule 1: beyond ±3σ
+B0006,148,1.715622686224313,1,Rule 1: beyond ±3σ
+B0006,150,1.8370184167679948,1,Rule 1: beyond ±3σ
+B0006,154,1.8215641861193277,1,Rule 1: beyond ±3σ
+B0006,158,1.7891456290974868,1,Rule 1: beyond ±3σ
+B0006,162,1.7579731427659742,1,Rule 1: beyond ±3σ
+B0006,166,1.7424113038313267,1,Rule 1: beyond ±3σ
+B0006,170,1.7213372648582923,1,Rule 1: beyond ±3σ
+B0006,174,1.7108095020663345,1,Rule 1: beyond ±3σ
+B0006,178,1.695322722323797,1,Rule 1: beyond ±3σ
+B0006,182,1.6847468431795718,1,Rule 1: beyond ±3σ
+B0006,186,1.674069028883379,1,Rule 1: beyond ±3σ
+B0006,190,1.6644759827403508,1,Rule 1: beyond ±3σ
+B0006,194,1.653420335536575,1,Rule 1: beyond ±3σ
+B0006,198,1.6424684803257832,1,Rule 1: beyond ±3σ
+B0006,202,1.62220696889282,1,Rule 1: beyond ±3σ
+B0006,206,1.6168547651180512,1,Rule 1: beyond ±3σ
+B0006,210,1.6123439203975136,1,Rule 1: beyond ±3σ
+B0006,214,1.6009508960827088,1,Rule 1: beyond ±3σ
+B0006,216,1.5962648834533302,1,Rule 1: beyond ±3σ
+B0006,220,1.580471927962659,1,Rule 1: beyond ±3σ
+B0006,224,1.5746836978058925,1,Rule 1: beyond ±3σ
+B0006,228,1.5645634506395365,1,Rule 1: beyond ±3σ
+B0006,232,1.559368869193007,1,Rule 1: beyond ±3σ
+B0006,236,1.5440081754460322,1,Rule 1: beyond ±3σ
+B0006,240,1.5435556143394842,1,Rule 1: beyond ±3σ
+B0006,244,1.5380705119141083,1,Rule 1: beyond ±3σ
+B0006,248,1.5279879708209352,1,Rule 1: beyond ±3σ
+B0006,252,1.5227316456556497,1,Rule 1: beyond ±3σ
+B0006,256,1.5173692930206066,1,Rule 1: beyond ±3σ
+B0006,260,1.5068909540441695,1,Rule 1: beyond ±3σ
+B0006,264,1.5062638808897746,1,Rule 1: beyond ±3σ
+B0006,266,1.5488388153619477,1,Rule 1: beyond ±3σ
+B0006,270,1.5174748645766734,1,Rule 1: beyond ±3σ
+B0006,274,1.5073692774128393,1,Rule 1: beyond ±3σ
+B0006,278,1.4916662070632016,1,Rule 1: beyond ±3σ
+B0006,282,1.491887814091922,1,Rule 1: beyond ±3σ
+B0006,286,1.4866661982216098,1,Rule 1: beyond ±3σ
+B0006,290,1.4809067710327544,1,Rule 1: beyond ±3σ
+B0006,294,1.470326932936196,1,Rule 1: beyond ±3σ
+B0006,298,1.465344540300074,1,Rule 1: beyond ±3σ
+B0006,302,1.4606132131193796,1,Rule 1: beyond ±3σ
+B0006,306,1.4603718106284507,1,Rule 1: beyond ±3σ
+B0006,310,1.4550578556129818,1,Rule 1: beyond ±3σ
+B0006,313,1.6069734834474942,1,Rule 1: beyond ±3σ
+B0006,316,1.5596829639731993,1,Rule 1: beyond ±3σ
+B0006,320,1.5280524986410895,1,Rule 1: beyond ±3σ
+B0006,324,1.5123119806040248,1,Rule 1: beyond ±3σ
+B0006,328,1.496489204117284,1,Rule 1: beyond ±3σ
+B0006,332,1.4864398791091686,1,Rule 1: beyond ±3σ
+B0006,336,1.476194495305401,1,Rule 1: beyond ±3σ
+B0006,340,1.4704983947284573,1,Rule 1: beyond ±3σ
+B0006,344,1.4603098506210614,1,Rule 1: beyond ±3σ
+B0006,348,1.4547925177101502,1,Rule 1: beyond ±3σ
+B0006,352,1.4498337715163376,1,Rule 1: beyond ±3σ
+B0006,356,1.4446620815753788,1,Rule 1: beyond ±3σ
+B0006,360,1.433868905592938,1,Rule 1: beyond ±3σ
+B0006,364,1.4393596890702223,1,Rule 1: beyond ±3σ
+B0006,367,1.4656294419557323,1,Rule 1: beyond ±3σ
+B0006,371,1.4449647347904269,1,Rule 1: beyond ±3σ
+B0006,375,1.4337081215345788,1,Rule 1: beyond ±3σ
+B0006,379,1.4231960953793916,1,Rule 1: beyond ±3σ
+B0006,383,1.4183842067789227,1,Rule 1: beyond ±3σ
+B0006,387,1.408647489428361,1,Rule 1: beyond ±3σ
+B0006,391,1.4079654070224146,1,Rule 1: beyond ±3σ
+B0006,395,1.4027609776931165,1,Rule 1: beyond ±3σ
+B0006,399,1.3973651022208544,1,Rule 1: beyond ±3σ
+B0006,403,1.3923928661516176,1,Rule 1: beyond ±3σ
+B0006,407,1.3921283985955233,1,Rule 1: beyond ±3σ
+B0006,411,1.38718961360724,1,Rule 1: beyond ±3σ
+B0006,415,1.3816435642879072,1,Rule 1: beyond ±3σ
+B0006,419,1.3767680733904994,1,Rule 1: beyond ±3σ
+B0006,423,1.3715997399506397,1,Rule 1: beyond ±3σ
+B0006,427,1.372035215805313,1,Rule 1: beyond ±3σ
+B0006,431,1.3976672133129613,1,Rule 1: beyond ±3σ
+B0006,433,1.418542004032935,1,Rule 1: beyond ±3σ
+B0006,437,1.3973979029514154,1,Rule 1: beyond ±3σ
+B0006,441,1.3817286028195048,1,Rule 1: beyond ±3σ
+B0006,445,1.3760293127381156,1,Rule 1: beyond ±3σ
+B0006,449,1.3659937664496005,1,Rule 1: beyond ±3σ
+B0006,453,1.3608521741120891,1,Rule 1: beyond ±3σ
+B0006,457,1.3556374972983631,1,Rule 1: beyond ±3σ
+B0006,461,1.3499332072349146,1,Rule 1: beyond ±3σ
+B0006,465,1.3393616664896304,1,Rule 1: beyond ±3σ
+B0006,469,1.3401963092185816,1,Rule 1: beyond ±3σ
+B0006,473,1.3346417992040758,1,Rule 1: beyond ±3σ
+B0006,477,1.3290572326952677,1,Rule 1: beyond ±3σ
+B0006,481,1.3343651261849256,1,Rule 1: beyond ±3σ
+B0006,483,1.360873808489467,1,Rule 1: beyond ±3σ
+B0006,485,1.3394377678574836,1,Rule 1: beyond ±3σ
+B0006,489,1.3287666002211338,1,Rule 1: beyond ±3σ
+B0006,493,1.318653201380414,1,Rule 1: beyond ±3σ
+B0006,497,1.3191009682587322,1,Rule 1: beyond ±3σ
+B0006,501,1.3137391419694107,1,Rule 1: beyond ±3σ
+B0006,505,1.3082852203397821,1,Rule 1: beyond ±3σ
+B0006,509,1.2980105432452615,1,Rule 1: beyond ±3σ
+B0006,513,1.29271674890541,1,Rule 1: beyond ±3σ
+B0006,517,1.2927526254102126,1,Rule 1: beyond ±3σ
+B0006,521,1.2876062525418415,1,Rule 1: beyond ±3σ
+B0006,525,1.2771907331177363,1,Rule 1: beyond ±3σ
+B0006,529,1.271594362996909,1,Rule 1: beyond ±3σ
+B0006,533,1.2720519779038446,1,Rule 1: beyond ±3σ
+B0006,537,1.2719850717832044,1,Rule 1: beyond ±3σ
+B0006,541,1.2616158782805698,1,Rule 1: beyond ±3σ
+B0006,545,1.2669575254883128,1,Rule 1: beyond ±3σ
+B0006,548,1.3033465580435102,1,Rule 1: beyond ±3σ
+B0006,552,1.277082553212368,1,Rule 1: beyond ±3σ
+B0006,556,1.2615517243518672,1,Rule 1: beyond ±3σ
+B0006,560,1.2509034328816129,1,Rule 1: beyond ±3σ
+B0006,564,1.2457801096939922,1,Rule 1: beyond ±3σ
+B0006,568,1.2352644153306773,1,Rule 1: beyond ±3σ
+B0006,572,1.229817718469132,1,Rule 1: beyond ±3σ
+B0006,576,1.2244220253478801,1,Rule 1: beyond ±3σ
+B0006,580,1.219622468433224,1,Rule 1: beyond ±3σ
+B0006,584,1.2093335298167716,1,Rule 1: beyond ±3σ
+B0006,588,1.204001133414051,1,Rule 1: beyond ±3σ
+B0006,592,1.1983981921124975,1,Rule 1: beyond ±3σ
+B0006,596,1.1933753740556388,1,Rule 1: beyond ±3σ
+B0006,600,1.1726581892283787,1,Rule 1: beyond ±3σ
+B0006,604,1.1780515275082346,1,Rule 1: beyond ±3σ
+B0006,608,1.1776520335951333,1,Rule 1: beyond ±3σ
+B0006,612,1.1938603172395272,1,Rule 1: beyond ±3σ
+B0006,614,1.204588199235937,1,Rule 1: beyond ±3σ
+B0006,6,2.0247293324555025,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,8,2.0132866329706425,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,10,2.01193411208748,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,12,2.0252745663966842,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,14,2.0244845012390646,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,16,1.9801685861266676,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,25,1.9347505044841131,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,27,1.9232799539368028,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,29,1.9231418479471192,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,31,1.9123037750088228,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,33,1.9004733636832007,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,35,1.8894418521024605,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,37,1.8787595848221554,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,39,1.8732149840310968,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,42,1.990949629313217,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,54,1.9356074980404325,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,58,1.945981133142164,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,62,1.9014079305530798,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,66,1.895507704327033,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,70,1.885139749897619,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,74,1.872772471846588,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,78,1.850825166359206,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,82,1.8740751609970479,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,86,1.9302725535450327,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,90,1.8903755105957254,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,94,1.8687043585221015,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,98,1.85263037020511,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,102,1.8318592092700148,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,106,1.8268835356265334,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,110,1.8105214250184154,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,114,1.794452250569754,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,118,1.784457124597187,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,122,1.7737266783224712,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,126,1.7635421946147194,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,130,1.7527224316529635,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,134,1.7712668853166194,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,136,1.7793486320201701,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,140,1.7470274349833859,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,144,1.7265534634619577,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,148,1.715622686224313,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,150,1.8370184167679948,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,154,1.8215641861193277,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,158,1.7891456290974868,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,162,1.7579731427659742,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,166,1.7424113038313267,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,170,1.7213372648582923,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,174,1.7108095020663345,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,178,1.695322722323797,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,182,1.6847468431795718,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,186,1.674069028883379,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,190,1.6644759827403508,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,194,1.653420335536575,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,198,1.6424684803257832,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,202,1.62220696889282,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,206,1.6168547651180512,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,210,1.6123439203975136,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,214,1.6009508960827088,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,216,1.5962648834533302,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,220,1.580471927962659,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,224,1.5746836978058925,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,228,1.5645634506395365,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,232,1.559368869193007,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,236,1.5440081754460322,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,240,1.5435556143394842,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,244,1.5380705119141083,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,248,1.5279879708209352,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,252,1.5227316456556497,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,256,1.5173692930206066,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,260,1.5068909540441695,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,264,1.5062638808897746,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,266,1.5488388153619477,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,270,1.5174748645766734,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,274,1.5073692774128393,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,278,1.4916662070632016,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,282,1.491887814091922,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,286,1.4866661982216098,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,290,1.4809067710327544,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,294,1.470326932936196,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,298,1.465344540300074,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,302,1.4606132131193796,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,306,1.4603718106284507,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,310,1.4550578556129818,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,313,1.6069734834474942,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,316,1.5596829639731993,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,320,1.5280524986410895,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,324,1.5123119806040248,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,328,1.496489204117284,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,332,1.4864398791091686,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,336,1.476194495305401,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,340,1.4704983947284573,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,344,1.4603098506210614,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,348,1.4547925177101502,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,352,1.4498337715163376,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,356,1.4446620815753788,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,360,1.433868905592938,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,364,1.4393596890702223,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,367,1.4656294419557323,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,371,1.4449647347904269,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,375,1.4337081215345788,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,379,1.4231960953793916,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,383,1.4183842067789227,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,387,1.408647489428361,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,391,1.4079654070224146,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,395,1.4027609776931165,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,399,1.3973651022208544,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,403,1.3923928661516176,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,407,1.3921283985955233,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,411,1.38718961360724,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,415,1.3816435642879072,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,419,1.3767680733904994,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,423,1.3715997399506397,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,427,1.372035215805313,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,431,1.3976672133129613,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,433,1.418542004032935,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,437,1.3973979029514154,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,441,1.3817286028195048,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,445,1.3760293127381156,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,449,1.3659937664496005,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,453,1.3608521741120891,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,457,1.3556374972983631,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,461,1.3499332072349146,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,465,1.3393616664896304,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,469,1.3401963092185816,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,473,1.3346417992040758,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,477,1.3290572326952677,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,481,1.3343651261849256,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,483,1.360873808489467,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,485,1.3394377678574836,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,489,1.3287666002211338,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,493,1.318653201380414,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,497,1.3191009682587322,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,501,1.3137391419694107,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,505,1.3082852203397821,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,509,1.2980105432452615,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,513,1.29271674890541,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,517,1.2927526254102126,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,521,1.2876062525418415,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,525,1.2771907331177363,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,529,1.271594362996909,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,533,1.2720519779038446,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,537,1.2719850717832044,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,541,1.2616158782805698,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,545,1.2669575254883128,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,548,1.3033465580435102,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,552,1.277082553212368,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,556,1.2615517243518672,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,560,1.2509034328816129,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,564,1.2457801096939922,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,568,1.2352644153306773,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,572,1.229817718469132,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,576,1.2244220253478801,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,580,1.219622468433224,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,584,1.2093335298167716,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,588,1.204001133414051,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,592,1.1983981921124975,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,596,1.1933753740556388,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,600,1.1726581892283787,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,604,1.1780515275082346,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,608,1.1776520335951333,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,612,1.1938603172395272,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,614,1.204588199235937,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0006,10,2.01193411208748,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,12,2.0252745663966842,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,14,2.0244845012390646,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,16,1.9801685861266676,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,25,1.9347505044841131,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,27,1.9232799539368028,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,29,1.9231418479471192,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,31,1.9123037750088228,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,33,1.9004733636832007,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,35,1.8894418521024605,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,37,1.8787595848221554,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,39,1.8732149840310968,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,42,1.990949629313217,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,46,1.9689347035586928,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,50,1.9571028081380615,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,54,1.9356074980404325,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,58,1.945981133142164,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,62,1.9014079305530798,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,66,1.895507704327033,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,70,1.885139749897619,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,74,1.872772471846588,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,78,1.850825166359206,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,82,1.8740751609970479,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,86,1.9302725535450327,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,90,1.8903755105957254,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,94,1.8687043585221015,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,98,1.85263037020511,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,102,1.8318592092700148,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,106,1.8268835356265334,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,110,1.8105214250184154,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,114,1.794452250569754,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,118,1.784457124597187,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,122,1.7737266783224712,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,126,1.7635421946147194,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,130,1.7527224316529635,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,134,1.7712668853166194,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,136,1.7793486320201701,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,140,1.7470274349833859,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,144,1.7265534634619577,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,148,1.715622686224313,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,150,1.8370184167679948,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,154,1.8215641861193277,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,158,1.7891456290974868,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,162,1.7579731427659742,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,166,1.7424113038313267,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,170,1.7213372648582923,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,174,1.7108095020663345,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,178,1.695322722323797,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,182,1.6847468431795718,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,186,1.674069028883379,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,190,1.6644759827403508,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,194,1.653420335536575,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,198,1.6424684803257832,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,202,1.62220696889282,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,206,1.6168547651180512,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,210,1.6123439203975136,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,214,1.6009508960827088,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,216,1.5962648834533302,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,220,1.580471927962659,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,224,1.5746836978058925,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,228,1.5645634506395365,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,232,1.559368869193007,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,236,1.5440081754460322,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,240,1.5435556143394842,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,244,1.5380705119141083,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,248,1.5279879708209352,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,252,1.5227316456556497,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,256,1.5173692930206066,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,260,1.5068909540441695,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,264,1.5062638808897746,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,266,1.5488388153619477,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,270,1.5174748645766734,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,274,1.5073692774128393,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,278,1.4916662070632016,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,282,1.491887814091922,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,286,1.4866661982216098,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,290,1.4809067710327544,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,294,1.470326932936196,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,298,1.465344540300074,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,302,1.4606132131193796,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,306,1.4603718106284507,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,310,1.4550578556129818,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,313,1.6069734834474942,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,316,1.5596829639731993,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,320,1.5280524986410895,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,324,1.5123119806040248,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,328,1.496489204117284,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,332,1.4864398791091686,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,336,1.476194495305401,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,340,1.4704983947284573,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,344,1.4603098506210614,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,348,1.4547925177101502,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,352,1.4498337715163376,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,356,1.4446620815753788,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,360,1.433868905592938,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,364,1.4393596890702223,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,367,1.4656294419557323,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,371,1.4449647347904269,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,375,1.4337081215345788,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,379,1.4231960953793916,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,383,1.4183842067789227,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,387,1.408647489428361,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,391,1.4079654070224146,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,395,1.4027609776931165,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,399,1.3973651022208544,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,403,1.3923928661516176,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,407,1.3921283985955233,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,411,1.38718961360724,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,415,1.3816435642879072,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,419,1.3767680733904994,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,423,1.3715997399506397,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,427,1.372035215805313,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,431,1.3976672133129613,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,433,1.418542004032935,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,437,1.3973979029514154,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,441,1.3817286028195048,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,445,1.3760293127381156,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,449,1.3659937664496005,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,453,1.3608521741120891,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,457,1.3556374972983631,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,461,1.3499332072349146,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,465,1.3393616664896304,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,469,1.3401963092185816,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,473,1.3346417992040758,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,477,1.3290572326952677,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,481,1.3343651261849256,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,483,1.360873808489467,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,485,1.3394377678574836,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,489,1.3287666002211338,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,493,1.318653201380414,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,497,1.3191009682587322,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,501,1.3137391419694107,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,505,1.3082852203397821,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,509,1.2980105432452615,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,513,1.29271674890541,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,517,1.2927526254102126,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,521,1.2876062525418415,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,525,1.2771907331177363,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,529,1.271594362996909,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,533,1.2720519779038446,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,537,1.2719850717832044,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,541,1.2616158782805698,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,545,1.2669575254883128,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,548,1.3033465580435102,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,552,1.277082553212368,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,556,1.2615517243518672,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,560,1.2509034328816129,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,564,1.2457801096939922,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,568,1.2352644153306773,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,572,1.229817718469132,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,576,1.2244220253478801,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,580,1.219622468433224,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,584,1.2093335298167716,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,588,1.204001133414051,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,592,1.1983981921124975,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,596,1.1933753740556388,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,600,1.1726581892283787,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,604,1.1780515275082346,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,608,1.1776520335951333,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,612,1.1938603172395272,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,614,1.204588199235937,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0006,31,1.9123037750088228,4,Rule 4: 8 consecutive on same side of centerline
+B0006,33,1.9004733636832007,4,Rule 4: 8 consecutive on same side of centerline
+B0006,35,1.8894418521024605,4,Rule 4: 8 consecutive on same side of centerline
+B0006,37,1.8787595848221554,4,Rule 4: 8 consecutive on same side of centerline
+B0006,39,1.8732149840310968,4,Rule 4: 8 consecutive on same side of centerline
+B0006,74,1.872772471846588,4,Rule 4: 8 consecutive on same side of centerline
+B0006,78,1.850825166359206,4,Rule 4: 8 consecutive on same side of centerline
+B0006,82,1.8740751609970479,4,Rule 4: 8 consecutive on same side of centerline
+B0006,86,1.9302725535450327,4,Rule 4: 8 consecutive on same side of centerline
+B0006,90,1.8903755105957254,4,Rule 4: 8 consecutive on same side of centerline
+B0006,94,1.8687043585221015,4,Rule 4: 8 consecutive on same side of centerline
+B0006,98,1.85263037020511,4,Rule 4: 8 consecutive on same side of centerline
+B0006,102,1.8318592092700148,4,Rule 4: 8 consecutive on same side of centerline
+B0006,106,1.8268835356265334,4,Rule 4: 8 consecutive on same side of centerline
+B0006,110,1.8105214250184154,4,Rule 4: 8 consecutive on same side of centerline
+B0006,114,1.794452250569754,4,Rule 4: 8 consecutive on same side of centerline
+B0006,118,1.784457124597187,4,Rule 4: 8 consecutive on same side of centerline
+B0006,122,1.7737266783224712,4,Rule 4: 8 consecutive on same side of centerline
+B0006,126,1.7635421946147194,4,Rule 4: 8 consecutive on same side of centerline
+B0006,130,1.7527224316529635,4,Rule 4: 8 consecutive on same side of centerline
+B0006,134,1.7712668853166194,4,Rule 4: 8 consecutive on same side of centerline
+B0006,136,1.7793486320201701,4,Rule 4: 8 consecutive on same side of centerline
+B0006,140,1.7470274349833859,4,Rule 4: 8 consecutive on same side of centerline
+B0006,144,1.7265534634619577,4,Rule 4: 8 consecutive on same side of centerline
+B0006,148,1.715622686224313,4,Rule 4: 8 consecutive on same side of centerline
+B0006,150,1.8370184167679948,4,Rule 4: 8 consecutive on same side of centerline
+B0006,154,1.8215641861193277,4,Rule 4: 8 consecutive on same side of centerline
+B0006,158,1.7891456290974868,4,Rule 4: 8 consecutive on same side of centerline
+B0006,162,1.7579731427659742,4,Rule 4: 8 consecutive on same side of centerline
+B0006,166,1.7424113038313267,4,Rule 4: 8 consecutive on same side of centerline
+B0006,170,1.7213372648582923,4,Rule 4: 8 consecutive on same side of centerline
+B0006,174,1.7108095020663345,4,Rule 4: 8 consecutive on same side of centerline
+B0006,178,1.695322722323797,4,Rule 4: 8 consecutive on same side of centerline
+B0006,182,1.6847468431795718,4,Rule 4: 8 consecutive on same side of centerline
+B0006,186,1.674069028883379,4,Rule 4: 8 consecutive on same side of centerline
+B0006,190,1.6644759827403508,4,Rule 4: 8 consecutive on same side of centerline
+B0006,194,1.653420335536575,4,Rule 4: 8 consecutive on same side of centerline
+B0006,198,1.6424684803257832,4,Rule 4: 8 consecutive on same side of centerline
+B0006,202,1.62220696889282,4,Rule 4: 8 consecutive on same side of centerline
+B0006,206,1.6168547651180512,4,Rule 4: 8 consecutive on same side of centerline
+B0006,210,1.6123439203975136,4,Rule 4: 8 consecutive on same side of centerline
+B0006,214,1.6009508960827088,4,Rule 4: 8 consecutive on same side of centerline
+B0006,216,1.5962648834533302,4,Rule 4: 8 consecutive on same side of centerline
+B0006,220,1.580471927962659,4,Rule 4: 8 consecutive on same side of centerline
+B0006,224,1.5746836978058925,4,Rule 4: 8 consecutive on same side of centerline
+B0006,228,1.5645634506395365,4,Rule 4: 8 consecutive on same side of centerline
+B0006,232,1.559368869193007,4,Rule 4: 8 consecutive on same side of centerline
+B0006,236,1.5440081754460322,4,Rule 4: 8 consecutive on same side of centerline
+B0006,240,1.5435556143394842,4,Rule 4: 8 consecutive on same side of centerline
+B0006,244,1.5380705119141083,4,Rule 4: 8 consecutive on same side of centerline
+B0006,248,1.5279879708209352,4,Rule 4: 8 consecutive on same side of centerline
+B0006,252,1.5227316456556497,4,Rule 4: 8 consecutive on same side of centerline
+B0006,256,1.5173692930206066,4,Rule 4: 8 consecutive on same side of centerline
+B0006,260,1.5068909540441695,4,Rule 4: 8 consecutive on same side of centerline
+B0006,264,1.5062638808897746,4,Rule 4: 8 consecutive on same side of centerline
+B0006,266,1.5488388153619477,4,Rule 4: 8 consecutive on same side of centerline
+B0006,270,1.5174748645766734,4,Rule 4: 8 consecutive on same side of centerline
+B0006,274,1.5073692774128393,4,Rule 4: 8 consecutive on same side of centerline
+B0006,278,1.4916662070632016,4,Rule 4: 8 consecutive on same side of centerline
+B0006,282,1.491887814091922,4,Rule 4: 8 consecutive on same side of centerline
+B0006,286,1.4866661982216098,4,Rule 4: 8 consecutive on same side of centerline
+B0006,290,1.4809067710327544,4,Rule 4: 8 consecutive on same side of centerline
+B0006,294,1.470326932936196,4,Rule 4: 8 consecutive on same side of centerline
+B0006,298,1.465344540300074,4,Rule 4: 8 consecutive on same side of centerline
+B0006,302,1.4606132131193796,4,Rule 4: 8 consecutive on same side of centerline
+B0006,306,1.4603718106284507,4,Rule 4: 8 consecutive on same side of centerline
+B0006,310,1.4550578556129818,4,Rule 4: 8 consecutive on same side of centerline
+B0006,313,1.6069734834474942,4,Rule 4: 8 consecutive on same side of centerline
+B0006,316,1.5596829639731993,4,Rule 4: 8 consecutive on same side of centerline
+B0006,320,1.5280524986410895,4,Rule 4: 8 consecutive on same side of centerline
+B0006,324,1.5123119806040248,4,Rule 4: 8 consecutive on same side of centerline
+B0006,328,1.496489204117284,4,Rule 4: 8 consecutive on same side of centerline
+B0006,332,1.4864398791091686,4,Rule 4: 8 consecutive on same side of centerline
+B0006,336,1.476194495305401,4,Rule 4: 8 consecutive on same side of centerline
+B0006,340,1.4704983947284573,4,Rule 4: 8 consecutive on same side of centerline
+B0006,344,1.4603098506210614,4,Rule 4: 8 consecutive on same side of centerline
+B0006,348,1.4547925177101502,4,Rule 4: 8 consecutive on same side of centerline
+B0006,352,1.4498337715163376,4,Rule 4: 8 consecutive on same side of centerline
+B0006,356,1.4446620815753788,4,Rule 4: 8 consecutive on same side of centerline
+B0006,360,1.433868905592938,4,Rule 4: 8 consecutive on same side of centerline
+B0006,364,1.4393596890702223,4,Rule 4: 8 consecutive on same side of centerline
+B0006,367,1.4656294419557323,4,Rule 4: 8 consecutive on same side of centerline
+B0006,371,1.4449647347904269,4,Rule 4: 8 consecutive on same side of centerline
+B0006,375,1.4337081215345788,4,Rule 4: 8 consecutive on same side of centerline
+B0006,379,1.4231960953793916,4,Rule 4: 8 consecutive on same side of centerline
+B0006,383,1.4183842067789227,4,Rule 4: 8 consecutive on same side of centerline
+B0006,387,1.408647489428361,4,Rule 4: 8 consecutive on same side of centerline
+B0006,391,1.4079654070224146,4,Rule 4: 8 consecutive on same side of centerline
+B0006,395,1.4027609776931165,4,Rule 4: 8 consecutive on same side of centerline
+B0006,399,1.3973651022208544,4,Rule 4: 8 consecutive on same side of centerline
+B0006,403,1.3923928661516176,4,Rule 4: 8 consecutive on same side of centerline
+B0006,407,1.3921283985955233,4,Rule 4: 8 consecutive on same side of centerline
+B0006,411,1.38718961360724,4,Rule 4: 8 consecutive on same side of centerline
+B0006,415,1.3816435642879072,4,Rule 4: 8 consecutive on same side of centerline
+B0006,419,1.3767680733904994,4,Rule 4: 8 consecutive on same side of centerline
+B0006,423,1.3715997399506397,4,Rule 4: 8 consecutive on same side of centerline
+B0006,427,1.372035215805313,4,Rule 4: 8 consecutive on same side of centerline
+B0006,431,1.3976672133129613,4,Rule 4: 8 consecutive on same side of centerline
+B0006,433,1.418542004032935,4,Rule 4: 8 consecutive on same side of centerline
+B0006,437,1.3973979029514154,4,Rule 4: 8 consecutive on same side of centerline
+B0006,441,1.3817286028195048,4,Rule 4: 8 consecutive on same side of centerline
+B0006,445,1.3760293127381156,4,Rule 4: 8 consecutive on same side of centerline
+B0006,449,1.3659937664496005,4,Rule 4: 8 consecutive on same side of centerline
+B0006,453,1.3608521741120891,4,Rule 4: 8 consecutive on same side of centerline
+B0006,457,1.3556374972983631,4,Rule 4: 8 consecutive on same side of centerline
+B0006,461,1.3499332072349146,4,Rule 4: 8 consecutive on same side of centerline
+B0006,465,1.3393616664896304,4,Rule 4: 8 consecutive on same side of centerline
+B0006,469,1.3401963092185816,4,Rule 4: 8 consecutive on same side of centerline
+B0006,473,1.3346417992040758,4,Rule 4: 8 consecutive on same side of centerline
+B0006,477,1.3290572326952677,4,Rule 4: 8 consecutive on same side of centerline
+B0006,481,1.3343651261849256,4,Rule 4: 8 consecutive on same side of centerline
+B0006,483,1.360873808489467,4,Rule 4: 8 consecutive on same side of centerline
+B0006,485,1.3394377678574836,4,Rule 4: 8 consecutive on same side of centerline
+B0006,489,1.3287666002211338,4,Rule 4: 8 consecutive on same side of centerline
+B0006,493,1.318653201380414,4,Rule 4: 8 consecutive on same side of centerline
+B0006,497,1.3191009682587322,4,Rule 4: 8 consecutive on same side of centerline
+B0006,501,1.3137391419694107,4,Rule 4: 8 consecutive on same side of centerline
+B0006,505,1.3082852203397821,4,Rule 4: 8 consecutive on same side of centerline
+B0006,509,1.2980105432452615,4,Rule 4: 8 consecutive on same side of centerline
+B0006,513,1.29271674890541,4,Rule 4: 8 consecutive on same side of centerline
+B0006,517,1.2927526254102126,4,Rule 4: 8 consecutive on same side of centerline
+B0006,521,1.2876062525418415,4,Rule 4: 8 consecutive on same side of centerline
+B0006,525,1.2771907331177363,4,Rule 4: 8 consecutive on same side of centerline
+B0006,529,1.271594362996909,4,Rule 4: 8 consecutive on same side of centerline
+B0006,533,1.2720519779038446,4,Rule 4: 8 consecutive on same side of centerline
+B0006,537,1.2719850717832044,4,Rule 4: 8 consecutive on same side of centerline
+B0006,541,1.2616158782805698,4,Rule 4: 8 consecutive on same side of centerline
+B0006,545,1.2669575254883128,4,Rule 4: 8 consecutive on same side of centerline
+B0006,548,1.3033465580435102,4,Rule 4: 8 consecutive on same side of centerline
+B0006,552,1.277082553212368,4,Rule 4: 8 consecutive on same side of centerline
+B0006,556,1.2615517243518672,4,Rule 4: 8 consecutive on same side of centerline
+B0006,560,1.2509034328816129,4,Rule 4: 8 consecutive on same side of centerline
+B0006,564,1.2457801096939922,4,Rule 4: 8 consecutive on same side of centerline
+B0006,568,1.2352644153306773,4,Rule 4: 8 consecutive on same side of centerline
+B0006,572,1.229817718469132,4,Rule 4: 8 consecutive on same side of centerline
+B0006,576,1.2244220253478801,4,Rule 4: 8 consecutive on same side of centerline
+B0006,580,1.219622468433224,4,Rule 4: 8 consecutive on same side of centerline
+B0006,584,1.2093335298167716,4,Rule 4: 8 consecutive on same side of centerline
+B0006,588,1.204001133414051,4,Rule 4: 8 consecutive on same side of centerline
+B0006,592,1.1983981921124975,4,Rule 4: 8 consecutive on same side of centerline
+B0006,596,1.1933753740556388,4,Rule 4: 8 consecutive on same side of centerline
+B0006,600,1.1726581892283787,4,Rule 4: 8 consecutive on same side of centerline
+B0006,604,1.1780515275082346,4,Rule 4: 8 consecutive on same side of centerline
+B0006,608,1.1776520335951333,4,Rule 4: 8 consecutive on same side of centerline
+B0006,612,1.1938603172395272,4,Rule 4: 8 consecutive on same side of centerline
+B0006,614,1.204588199235937,4,Rule 4: 8 consecutive on same side of centerline
+B0007,2,1.9190294812778448,1,Rule 1: beyond ±3σ
+B0007,4,1.908614952935609,1,Rule 1: beyond ±3σ
+B0007,6,1.9086150443129848,1,Rule 1: beyond ±3σ
+B0007,8,1.908792407567644,1,Rule 1: beyond ±3σ
+B0007,25,1.8874661545337479,1,Rule 1: beyond ±3σ
+B0007,27,1.8869533962422642,1,Rule 1: beyond ±3σ
+B0007,29,1.8867286703615063,1,Rule 1: beyond ±3σ
+B0007,31,1.8759711783647026,1,Rule 1: beyond ±3σ
+B0007,33,1.8754208508926609,1,Rule 1: beyond ±3σ
+B0007,35,1.869973696731274,1,Rule 1: beyond ±3σ
+B0007,37,1.8595965985300904,1,Rule 1: beyond ±3σ
+B0007,39,1.8594934150547346,1,Rule 1: beyond ±3σ
+B0007,42,1.9087580832358864,1,Rule 1: beyond ±3σ
+B0007,46,1.9093375745978098,1,Rule 1: beyond ±3σ
+B0007,62,1.8818429649996573,1,Rule 1: beyond ±3σ
+B0007,66,1.8818176729063296,1,Rule 1: beyond ±3σ
+B0007,70,1.871185272755064,1,Rule 1: beyond ±3σ
+B0007,74,1.8703076498430442,1,Rule 1: beyond ±3σ
+B0007,78,1.870485787180345,1,Rule 1: beyond ±3σ
+B0007,82,1.8603470811914904,1,Rule 1: beyond ±3σ
+B0007,90,1.878985300422826,1,Rule 1: beyond ±3σ
+B0007,94,1.868342522610038,1,Rule 1: beyond ±3σ
+B0007,98,1.863163803383198,1,Rule 1: beyond ±3σ
+B0007,102,1.8530972590844652,1,Rule 1: beyond ±3σ
+B0007,106,1.853375502508215,1,Rule 1: beyond ±3σ
+B0007,110,1.8478823586231066,1,Rule 1: beyond ±3σ
+B0007,114,1.837328948442241,1,Rule 1: beyond ±3σ
+B0007,118,1.832695307479773,1,Rule 1: beyond ±3σ
+B0007,122,1.8275277284905889,1,Rule 1: beyond ±3σ
+B0007,126,1.8277691559641205,1,Rule 1: beyond ±3σ
+B0007,130,1.8221936236007856,1,Rule 1: beyond ±3σ
+B0007,134,1.8242584407474904,1,Rule 1: beyond ±3σ
+B0007,136,1.8222968709239153,1,Rule 1: beyond ±3σ
+B0007,140,1.8118306786592215,1,Rule 1: beyond ±3σ
+B0007,144,1.8018958274990609,1,Rule 1: beyond ±3σ
+B0007,148,1.796311290604812,1,Rule 1: beyond ±3σ
+B0007,150,1.8312780528780856,1,Rule 1: beyond ±3σ
+B0007,154,1.8317383060861463,1,Rule 1: beyond ±3σ
+B0007,158,1.8163173679165368,1,Rule 1: beyond ±3σ
+B0007,162,1.8064343691663283,1,Rule 1: beyond ±3σ
+B0007,166,1.7990139355200936,1,Rule 1: beyond ±3σ
+B0007,170,1.7939851787233854,1,Rule 1: beyond ±3σ
+B0007,174,1.7889281717647347,1,Rule 1: beyond ±3σ
+B0007,178,1.77873079557331,1,Rule 1: beyond ±3σ
+B0007,182,1.7736818795438978,1,Rule 1: beyond ±3σ
+B0007,186,1.7683787460637161,1,Rule 1: beyond ±3σ
+B0007,190,1.763759718548529,1,Rule 1: beyond ±3σ
+B0007,194,1.7583083669215216,1,Rule 1: beyond ±3σ
+B0007,198,1.7525835363074187,1,Rule 1: beyond ±3σ
+B0007,202,1.7426147065341895,1,Rule 1: beyond ±3σ
+B0007,206,1.7380315936991801,1,Rule 1: beyond ±3σ
+B0007,210,1.7326816189303085,1,Rule 1: beyond ±3σ
+B0007,214,1.7277750529192737,1,Rule 1: beyond ±3σ
+B0007,216,1.7227450346671636,1,Rule 1: beyond ±3σ
+B0007,220,1.7123397579890853,1,Rule 1: beyond ±3σ
+B0007,224,1.706415331485726,1,Rule 1: beyond ±3σ
+B0007,228,1.7018564078772058,1,Rule 1: beyond ±3σ
+B0007,232,1.69664240237683,1,Rule 1: beyond ±3σ
+B0007,236,1.6919465713508783,1,Rule 1: beyond ±3σ
+B0007,240,1.6861522277740562,1,Rule 1: beyond ±3σ
+B0007,244,1.6809684835702723,1,Rule 1: beyond ±3σ
+B0007,248,1.6761769576323122,1,Rule 1: beyond ±3σ
+B0007,252,1.671325378308302,1,Rule 1: beyond ±3σ
+B0007,256,1.6659497158262415,1,Rule 1: beyond ±3σ
+B0007,260,1.6604881076487283,1,Rule 1: beyond ±3σ
+B0007,264,1.6602561800126316,1,Rule 1: beyond ±3σ
+B0007,266,1.6651901326573508,1,Rule 1: beyond ±3σ
+B0007,270,1.6503476506735772,1,Rule 1: beyond ±3σ
+B0007,274,1.6453643701617962,1,Rule 1: beyond ±3σ
+B0007,278,1.6405723282935025,1,Rule 1: beyond ±3σ
+B0007,282,1.6398172829202333,1,Rule 1: beyond ±3σ
+B0007,286,1.6354662322934128,1,Rule 1: beyond ±3σ
+B0007,290,1.6295978762616465,1,Rule 1: beyond ±3σ
+B0007,294,1.6247445560775966,1,Rule 1: beyond ±3σ
+B0007,298,1.6200110476582623,1,Rule 1: beyond ±3σ
+B0007,302,1.6150573334208287,1,Rule 1: beyond ±3σ
+B0007,306,1.6145820819454735,1,Rule 1: beyond ±3σ
+B0007,310,1.6148057066120742,1,Rule 1: beyond ±3σ
+B0007,313,1.712927946186764,1,Rule 1: beyond ±3σ
+B0007,316,1.6500819621462108,1,Rule 1: beyond ±3σ
+B0007,320,1.6397656608575055,1,Rule 1: beyond ±3σ
+B0007,324,1.6296761858018656,1,Rule 1: beyond ±3σ
+B0007,328,1.6189903302168103,1,Rule 1: beyond ±3σ
+B0007,332,1.6144678451299883,1,Rule 1: beyond ±3σ
+B0007,336,1.6094293397117418,1,Rule 1: beyond ±3σ
+B0007,340,1.6040326523018948,1,Rule 1: beyond ±3σ
+B0007,344,1.5992977156114052,1,Rule 1: beyond ±3σ
+B0007,348,1.5939076477841838,1,Rule 1: beyond ±3σ
+B0007,352,1.5891502676011144,1,Rule 1: beyond ±3σ
+B0007,356,1.5893237737378407,1,Rule 1: beyond ±3σ
+B0007,360,1.5838167436941692,1,Rule 1: beyond ±3σ
+B0007,364,1.589084240246478,1,Rule 1: beyond ±3σ
+B0007,367,1.599072467997887,1,Rule 1: beyond ±3σ
+B0007,371,1.5893600099595029,1,Rule 1: beyond ±3σ
+B0007,375,1.57851775671353,1,Rule 1: beyond ±3σ
+B0007,379,1.5740000521310509,1,Rule 1: beyond ±3σ
+B0007,383,1.5679999189918266,1,Rule 1: beyond ±3σ
+B0007,387,1.569110639350695,1,Rule 1: beyond ±3σ
+B0007,391,1.5632924032897542,1,Rule 1: beyond ±3σ
+B0007,395,1.5583373324505823,1,Rule 1: beyond ±3σ
+B0007,399,1.552878953757077,1,Rule 1: beyond ±3σ
+B0007,403,1.553069948397462,1,Rule 1: beyond ±3σ
+B0007,407,1.5531501891813029,1,Rule 1: beyond ±3σ
+B0007,411,1.547955372566583,1,Rule 1: beyond ±3σ
+B0007,415,1.5427397741089666,1,Rule 1: beyond ±3σ
+B0007,419,1.537826810352851,1,Rule 1: beyond ±3σ
+B0007,423,1.5376799163150534,1,Rule 1: beyond ±3σ
+B0007,427,1.5380472634247557,1,Rule 1: beyond ±3σ
+B0007,431,1.5580488439366298,1,Rule 1: beyond ±3σ
+B0007,433,1.5578950737028456,1,Rule 1: beyond ±3σ
+B0007,437,1.5477669619589283,1,Rule 1: beyond ±3σ
+B0007,441,1.5377046718625509,1,Rule 1: beyond ±3σ
+B0007,445,1.5318259006586357,1,Rule 1: beyond ±3σ
+B0007,449,1.5272466448571733,1,Rule 1: beyond ±3σ
+B0007,453,1.5219102875481252,1,Rule 1: beyond ±3σ
+B0007,457,1.5169244670285524,1,Rule 1: beyond ±3σ
+B0007,461,1.5112029165659036,1,Rule 1: beyond ±3σ
+B0007,465,1.5116035043189853,1,Rule 1: beyond ±3σ
+B0007,469,1.506611859399193,1,Rule 1: beyond ±3σ
+B0007,473,1.5015197498525221,1,Rule 1: beyond ±3σ
+B0007,477,1.5010235281640598,1,Rule 1: beyond ±3σ
+B0007,481,1.5060077366690552,1,Rule 1: beyond ±3σ
+B0007,483,1.5168693575881576,1,Rule 1: beyond ±3σ
+B0007,485,1.506127965354888,1,Rule 1: beyond ±3σ
+B0007,489,1.5012385247553297,1,Rule 1: beyond ±3σ
+B0007,493,1.4961803118983437,1,Rule 1: beyond ±3σ
+B0007,497,1.49101112606186,1,Rule 1: beyond ±3σ
+B0007,501,1.4911721882360118,1,Rule 1: beyond ±3σ
+B0007,505,1.4858666965307439,1,Rule 1: beyond ±3σ
+B0007,509,1.4807852636482064,1,Rule 1: beyond ±3σ
+B0007,513,1.475463006381773,1,Rule 1: beyond ±3σ
+B0007,517,1.4757262879778916,1,Rule 1: beyond ±3σ
+B0007,521,1.4709153790366938,1,Rule 1: beyond ±3σ
+B0007,525,1.4709004549454583,1,Rule 1: beyond ±3σ
+B0007,529,1.4654719834406276,1,Rule 1: beyond ±3σ
+B0007,533,1.4603426985699886,1,Rule 1: beyond ±3σ
+B0007,537,1.4609352642646058,1,Rule 1: beyond ±3σ
+B0007,541,1.4603803768481924,1,Rule 1: beyond ±3σ
+B0007,545,1.4659478953502343,1,Rule 1: beyond ±3σ
+B0007,548,1.4860167165609204,1,Rule 1: beyond ±3σ
+B0007,552,1.475938768183551,1,Rule 1: beyond ±3σ
+B0007,556,1.4659798857980386,1,Rule 1: beyond ±3σ
+B0007,560,1.4605685998191131,1,Rule 1: beyond ±3σ
+B0007,564,1.4556981949549759,1,Rule 1: beyond ±3σ
+B0007,568,1.4559679028525339,1,Rule 1: beyond ±3σ
+B0007,572,1.450331183172271,1,Rule 1: beyond ±3σ
+B0007,576,1.4448338084328112,1,Rule 1: beyond ±3σ
+B0007,580,1.4453753851880613,1,Rule 1: beyond ±3σ
+B0007,584,1.4404332302510017,1,Rule 1: beyond ±3σ
+B0007,588,1.4407412714460885,1,Rule 1: beyond ±3σ
+B0007,592,1.434976426214854,1,Rule 1: beyond ±3σ
+B0007,596,1.4351304036947048,1,Rule 1: beyond ±3σ
+B0007,600,1.4303254115437374,1,Rule 1: beyond ±3σ
+B0007,604,1.4304177760980343,1,Rule 1: beyond ±3σ
+B0007,608,1.4245759097122876,1,Rule 1: beyond ±3σ
+B0007,612,1.4458594275701884,1,Rule 1: beyond ±3σ
+B0007,614,1.4565465631206378,1,Rule 1: beyond ±3σ
+B0007,6,1.9086150443129848,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,8,1.908792407567644,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,10,1.9073013015924791,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,12,1.8975851087731508,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,27,1.8869533962422642,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,29,1.8867286703615063,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,31,1.8759711783647026,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,33,1.8754208508926609,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,35,1.869973696731274,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,37,1.8595965985300904,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,39,1.8594934150547346,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,42,1.9087580832358864,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,46,1.9093375745978098,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,50,1.8977991805073422,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,66,1.8818176729063296,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,70,1.871185272755064,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,74,1.8703076498430442,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,78,1.870485787180345,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,82,1.8603470811914904,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,86,1.902162627516613,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,90,1.878985300422826,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,94,1.868342522610038,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,98,1.863163803383198,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,102,1.8530972590844652,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,106,1.853375502508215,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,110,1.8478823586231066,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,114,1.837328948442241,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,118,1.832695307479773,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,122,1.8275277284905889,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,126,1.8277691559641205,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,130,1.8221936236007856,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,134,1.8242584407474904,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,136,1.8222968709239153,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,140,1.8118306786592215,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,144,1.8018958274990609,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,148,1.796311290604812,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,150,1.8312780528780856,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,154,1.8317383060861463,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,158,1.8163173679165368,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,162,1.8064343691663283,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,166,1.7990139355200936,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,170,1.7939851787233854,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,174,1.7889281717647347,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,178,1.77873079557331,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,182,1.7736818795438978,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,186,1.7683787460637161,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,190,1.763759718548529,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,194,1.7583083669215216,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,198,1.7525835363074187,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,202,1.7426147065341895,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,206,1.7380315936991801,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,210,1.7326816189303085,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,214,1.7277750529192737,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,216,1.7227450346671636,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,220,1.7123397579890853,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,224,1.706415331485726,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,228,1.7018564078772058,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,232,1.69664240237683,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,236,1.6919465713508783,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,240,1.6861522277740562,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,244,1.6809684835702723,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,248,1.6761769576323122,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,252,1.671325378308302,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,256,1.6659497158262415,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,260,1.6604881076487283,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,264,1.6602561800126316,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,266,1.6651901326573508,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,270,1.6503476506735772,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,274,1.6453643701617962,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,278,1.6405723282935025,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,282,1.6398172829202333,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,286,1.6354662322934128,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,290,1.6295978762616465,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,294,1.6247445560775966,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,298,1.6200110476582623,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,302,1.6150573334208287,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,306,1.6145820819454735,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,310,1.6148057066120742,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,313,1.712927946186764,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,316,1.6500819621462108,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,320,1.6397656608575055,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,324,1.6296761858018656,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,328,1.6189903302168103,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,332,1.6144678451299883,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,336,1.6094293397117418,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,340,1.6040326523018948,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,344,1.5992977156114052,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,348,1.5939076477841838,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,352,1.5891502676011144,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,356,1.5893237737378407,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,360,1.5838167436941692,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,364,1.589084240246478,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,367,1.599072467997887,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,371,1.5893600099595029,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,375,1.57851775671353,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,379,1.5740000521310509,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,383,1.5679999189918266,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,387,1.569110639350695,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,391,1.5632924032897542,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,395,1.5583373324505823,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,399,1.552878953757077,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,403,1.553069948397462,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,407,1.5531501891813029,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,411,1.547955372566583,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,415,1.5427397741089666,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,419,1.537826810352851,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,423,1.5376799163150534,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,427,1.5380472634247557,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,431,1.5580488439366298,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,433,1.5578950737028456,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,437,1.5477669619589283,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,441,1.5377046718625509,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,445,1.5318259006586357,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,449,1.5272466448571733,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,453,1.5219102875481252,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,457,1.5169244670285524,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,461,1.5112029165659036,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,465,1.5116035043189853,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,469,1.506611859399193,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,473,1.5015197498525221,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,477,1.5010235281640598,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,481,1.5060077366690552,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,483,1.5168693575881576,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,485,1.506127965354888,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,489,1.5012385247553297,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,493,1.4961803118983437,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,497,1.49101112606186,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,501,1.4911721882360118,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,505,1.4858666965307439,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,509,1.4807852636482064,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,513,1.475463006381773,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,517,1.4757262879778916,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,521,1.4709153790366938,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,525,1.4709004549454583,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,529,1.4654719834406276,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,533,1.4603426985699886,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,537,1.4609352642646058,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,541,1.4603803768481924,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,545,1.4659478953502343,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,548,1.4860167165609204,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,552,1.475938768183551,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,556,1.4659798857980386,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,560,1.4605685998191131,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,564,1.4556981949549759,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,568,1.4559679028525339,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,572,1.450331183172271,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,576,1.4448338084328112,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,580,1.4453753851880613,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,584,1.4404332302510017,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,588,1.4407412714460885,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,592,1.434976426214854,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,596,1.4351304036947048,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,600,1.4303254115437374,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,604,1.4304177760980343,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,608,1.4245759097122876,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,612,1.4458594275701884,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,614,1.4565465631206378,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0007,10,1.9073013015924791,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,12,1.8975851087731508,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,31,1.8759711783647026,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,33,1.8754208508926609,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,35,1.869973696731274,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,37,1.8595965985300904,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,39,1.8594934150547346,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,42,1.9087580832358864,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,74,1.8703076498430442,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,78,1.870485787180345,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,82,1.8603470811914904,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,86,1.902162627516613,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,90,1.878985300422826,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,94,1.868342522610038,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,98,1.863163803383198,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,102,1.8530972590844652,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,106,1.853375502508215,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,110,1.8478823586231066,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,114,1.837328948442241,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,118,1.832695307479773,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,122,1.8275277284905889,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,126,1.8277691559641205,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,130,1.8221936236007856,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,134,1.8242584407474904,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,136,1.8222968709239153,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,140,1.8118306786592215,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,144,1.8018958274990609,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,148,1.796311290604812,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,150,1.8312780528780856,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,154,1.8317383060861463,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,158,1.8163173679165368,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,162,1.8064343691663283,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,166,1.7990139355200936,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,170,1.7939851787233854,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,174,1.7889281717647347,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,178,1.77873079557331,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,182,1.7736818795438978,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,186,1.7683787460637161,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,190,1.763759718548529,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,194,1.7583083669215216,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,198,1.7525835363074187,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,202,1.7426147065341895,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,206,1.7380315936991801,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,210,1.7326816189303085,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,214,1.7277750529192737,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,216,1.7227450346671636,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,220,1.7123397579890853,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,224,1.706415331485726,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,228,1.7018564078772058,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,232,1.69664240237683,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,236,1.6919465713508783,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,240,1.6861522277740562,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,244,1.6809684835702723,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,248,1.6761769576323122,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,252,1.671325378308302,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,256,1.6659497158262415,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,260,1.6604881076487283,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,264,1.6602561800126316,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,266,1.6651901326573508,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,270,1.6503476506735772,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,274,1.6453643701617962,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,278,1.6405723282935025,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,282,1.6398172829202333,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,286,1.6354662322934128,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,290,1.6295978762616465,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,294,1.6247445560775966,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,298,1.6200110476582623,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,302,1.6150573334208287,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,306,1.6145820819454735,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,310,1.6148057066120742,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,313,1.712927946186764,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,316,1.6500819621462108,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,320,1.6397656608575055,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,324,1.6296761858018656,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,328,1.6189903302168103,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,332,1.6144678451299883,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,336,1.6094293397117418,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,340,1.6040326523018948,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,344,1.5992977156114052,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,348,1.5939076477841838,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,352,1.5891502676011144,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,356,1.5893237737378407,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,360,1.5838167436941692,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,364,1.589084240246478,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,367,1.599072467997887,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,371,1.5893600099595029,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,375,1.57851775671353,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,379,1.5740000521310509,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,383,1.5679999189918266,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,387,1.569110639350695,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,391,1.5632924032897542,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,395,1.5583373324505823,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,399,1.552878953757077,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,403,1.553069948397462,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,407,1.5531501891813029,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,411,1.547955372566583,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,415,1.5427397741089666,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,419,1.537826810352851,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,423,1.5376799163150534,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,427,1.5380472634247557,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,431,1.5580488439366298,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,433,1.5578950737028456,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,437,1.5477669619589283,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,441,1.5377046718625509,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,445,1.5318259006586357,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,449,1.5272466448571733,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,453,1.5219102875481252,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,457,1.5169244670285524,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,461,1.5112029165659036,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,465,1.5116035043189853,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,469,1.506611859399193,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,473,1.5015197498525221,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,477,1.5010235281640598,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,481,1.5060077366690552,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,483,1.5168693575881576,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,485,1.506127965354888,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,489,1.5012385247553297,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,493,1.4961803118983437,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,497,1.49101112606186,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,501,1.4911721882360118,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,505,1.4858666965307439,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,509,1.4807852636482064,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,513,1.475463006381773,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,517,1.4757262879778916,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,521,1.4709153790366938,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,525,1.4709004549454583,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,529,1.4654719834406276,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,533,1.4603426985699886,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,537,1.4609352642646058,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,541,1.4603803768481924,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,545,1.4659478953502343,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,548,1.4860167165609204,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,552,1.475938768183551,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,556,1.4659798857980386,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,560,1.4605685998191131,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,564,1.4556981949549759,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,568,1.4559679028525339,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,572,1.450331183172271,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,576,1.4448338084328112,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,580,1.4453753851880613,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,584,1.4404332302510017,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,588,1.4407412714460885,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,592,1.434976426214854,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,596,1.4351304036947048,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,600,1.4303254115437374,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,604,1.4304177760980343,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,608,1.4245759097122876,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,612,1.4458594275701884,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,614,1.4565465631206378,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0007,27,1.8869533962422642,4,Rule 4: 8 consecutive on same side of centerline
+B0007,29,1.8867286703615063,4,Rule 4: 8 consecutive on same side of centerline
+B0007,31,1.8759711783647026,4,Rule 4: 8 consecutive on same side of centerline
+B0007,33,1.8754208508926609,4,Rule 4: 8 consecutive on same side of centerline
+B0007,35,1.869973696731274,4,Rule 4: 8 consecutive on same side of centerline
+B0007,37,1.8595965985300904,4,Rule 4: 8 consecutive on same side of centerline
+B0007,39,1.8594934150547346,4,Rule 4: 8 consecutive on same side of centerline
+B0007,78,1.870485787180345,4,Rule 4: 8 consecutive on same side of centerline
+B0007,82,1.8603470811914904,4,Rule 4: 8 consecutive on same side of centerline
+B0007,118,1.832695307479773,4,Rule 4: 8 consecutive on same side of centerline
+B0007,122,1.8275277284905889,4,Rule 4: 8 consecutive on same side of centerline
+B0007,126,1.8277691559641205,4,Rule 4: 8 consecutive on same side of centerline
+B0007,130,1.8221936236007856,4,Rule 4: 8 consecutive on same side of centerline
+B0007,134,1.8242584407474904,4,Rule 4: 8 consecutive on same side of centerline
+B0007,136,1.8222968709239153,4,Rule 4: 8 consecutive on same side of centerline
+B0007,140,1.8118306786592215,4,Rule 4: 8 consecutive on same side of centerline
+B0007,144,1.8018958274990609,4,Rule 4: 8 consecutive on same side of centerline
+B0007,148,1.796311290604812,4,Rule 4: 8 consecutive on same side of centerline
+B0007,150,1.8312780528780856,4,Rule 4: 8 consecutive on same side of centerline
+B0007,154,1.8317383060861463,4,Rule 4: 8 consecutive on same side of centerline
+B0007,158,1.8163173679165368,4,Rule 4: 8 consecutive on same side of centerline
+B0007,162,1.8064343691663283,4,Rule 4: 8 consecutive on same side of centerline
+B0007,166,1.7990139355200936,4,Rule 4: 8 consecutive on same side of centerline
+B0007,170,1.7939851787233854,4,Rule 4: 8 consecutive on same side of centerline
+B0007,174,1.7889281717647347,4,Rule 4: 8 consecutive on same side of centerline
+B0007,178,1.77873079557331,4,Rule 4: 8 consecutive on same side of centerline
+B0007,182,1.7736818795438978,4,Rule 4: 8 consecutive on same side of centerline
+B0007,186,1.7683787460637161,4,Rule 4: 8 consecutive on same side of centerline
+B0007,190,1.763759718548529,4,Rule 4: 8 consecutive on same side of centerline
+B0007,194,1.7583083669215216,4,Rule 4: 8 consecutive on same side of centerline
+B0007,198,1.7525835363074187,4,Rule 4: 8 consecutive on same side of centerline
+B0007,202,1.7426147065341895,4,Rule 4: 8 consecutive on same side of centerline
+B0007,206,1.7380315936991801,4,Rule 4: 8 consecutive on same side of centerline
+B0007,210,1.7326816189303085,4,Rule 4: 8 consecutive on same side of centerline
+B0007,214,1.7277750529192737,4,Rule 4: 8 consecutive on same side of centerline
+B0007,216,1.7227450346671636,4,Rule 4: 8 consecutive on same side of centerline
+B0007,220,1.7123397579890853,4,Rule 4: 8 consecutive on same side of centerline
+B0007,224,1.706415331485726,4,Rule 4: 8 consecutive on same side of centerline
+B0007,228,1.7018564078772058,4,Rule 4: 8 consecutive on same side of centerline
+B0007,232,1.69664240237683,4,Rule 4: 8 consecutive on same side of centerline
+B0007,236,1.6919465713508783,4,Rule 4: 8 consecutive on same side of centerline
+B0007,240,1.6861522277740562,4,Rule 4: 8 consecutive on same side of centerline
+B0007,244,1.6809684835702723,4,Rule 4: 8 consecutive on same side of centerline
+B0007,248,1.6761769576323122,4,Rule 4: 8 consecutive on same side of centerline
+B0007,252,1.671325378308302,4,Rule 4: 8 consecutive on same side of centerline
+B0007,256,1.6659497158262415,4,Rule 4: 8 consecutive on same side of centerline
+B0007,260,1.6604881076487283,4,Rule 4: 8 consecutive on same side of centerline
+B0007,264,1.6602561800126316,4,Rule 4: 8 consecutive on same side of centerline
+B0007,266,1.6651901326573508,4,Rule 4: 8 consecutive on same side of centerline
+B0007,270,1.6503476506735772,4,Rule 4: 8 consecutive on same side of centerline
+B0007,274,1.6453643701617962,4,Rule 4: 8 consecutive on same side of centerline
+B0007,278,1.6405723282935025,4,Rule 4: 8 consecutive on same side of centerline
+B0007,282,1.6398172829202333,4,Rule 4: 8 consecutive on same side of centerline
+B0007,286,1.6354662322934128,4,Rule 4: 8 consecutive on same side of centerline
+B0007,290,1.6295978762616465,4,Rule 4: 8 consecutive on same side of centerline
+B0007,294,1.6247445560775966,4,Rule 4: 8 consecutive on same side of centerline
+B0007,298,1.6200110476582623,4,Rule 4: 8 consecutive on same side of centerline
+B0007,302,1.6150573334208287,4,Rule 4: 8 consecutive on same side of centerline
+B0007,306,1.6145820819454735,4,Rule 4: 8 consecutive on same side of centerline
+B0007,310,1.6148057066120742,4,Rule 4: 8 consecutive on same side of centerline
+B0007,313,1.712927946186764,4,Rule 4: 8 consecutive on same side of centerline
+B0007,316,1.6500819621462108,4,Rule 4: 8 consecutive on same side of centerline
+B0007,320,1.6397656608575055,4,Rule 4: 8 consecutive on same side of centerline
+B0007,324,1.6296761858018656,4,Rule 4: 8 consecutive on same side of centerline
+B0007,328,1.6189903302168103,4,Rule 4: 8 consecutive on same side of centerline
+B0007,332,1.6144678451299883,4,Rule 4: 8 consecutive on same side of centerline
+B0007,336,1.6094293397117418,4,Rule 4: 8 consecutive on same side of centerline
+B0007,340,1.6040326523018948,4,Rule 4: 8 consecutive on same side of centerline
+B0007,344,1.5992977156114052,4,Rule 4: 8 consecutive on same side of centerline
+B0007,348,1.5939076477841838,4,Rule 4: 8 consecutive on same side of centerline
+B0007,352,1.5891502676011144,4,Rule 4: 8 consecutive on same side of centerline
+B0007,356,1.5893237737378407,4,Rule 4: 8 consecutive on same side of centerline
+B0007,360,1.5838167436941692,4,Rule 4: 8 consecutive on same side of centerline
+B0007,364,1.589084240246478,4,Rule 4: 8 consecutive on same side of centerline
+B0007,367,1.599072467997887,4,Rule 4: 8 consecutive on same side of centerline
+B0007,371,1.5893600099595029,4,Rule 4: 8 consecutive on same side of centerline
+B0007,375,1.57851775671353,4,Rule 4: 8 consecutive on same side of centerline
+B0007,379,1.5740000521310509,4,Rule 4: 8 consecutive on same side of centerline
+B0007,383,1.5679999189918266,4,Rule 4: 8 consecutive on same side of centerline
+B0007,387,1.569110639350695,4,Rule 4: 8 consecutive on same side of centerline
+B0007,391,1.5632924032897542,4,Rule 4: 8 consecutive on same side of centerline
+B0007,395,1.5583373324505823,4,Rule 4: 8 consecutive on same side of centerline
+B0007,399,1.552878953757077,4,Rule 4: 8 consecutive on same side of centerline
+B0007,403,1.553069948397462,4,Rule 4: 8 consecutive on same side of centerline
+B0007,407,1.5531501891813029,4,Rule 4: 8 consecutive on same side of centerline
+B0007,411,1.547955372566583,4,Rule 4: 8 consecutive on same side of centerline
+B0007,415,1.5427397741089666,4,Rule 4: 8 consecutive on same side of centerline
+B0007,419,1.537826810352851,4,Rule 4: 8 consecutive on same side of centerline
+B0007,423,1.5376799163150534,4,Rule 4: 8 consecutive on same side of centerline
+B0007,427,1.5380472634247557,4,Rule 4: 8 consecutive on same side of centerline
+B0007,431,1.5580488439366298,4,Rule 4: 8 consecutive on same side of centerline
+B0007,433,1.5578950737028456,4,Rule 4: 8 consecutive on same side of centerline
+B0007,437,1.5477669619589283,4,Rule 4: 8 consecutive on same side of centerline
+B0007,441,1.5377046718625509,4,Rule 4: 8 consecutive on same side of centerline
+B0007,445,1.5318259006586357,4,Rule 4: 8 consecutive on same side of centerline
+B0007,449,1.5272466448571733,4,Rule 4: 8 consecutive on same side of centerline
+B0007,453,1.5219102875481252,4,Rule 4: 8 consecutive on same side of centerline
+B0007,457,1.5169244670285524,4,Rule 4: 8 consecutive on same side of centerline
+B0007,461,1.5112029165659036,4,Rule 4: 8 consecutive on same side of centerline
+B0007,465,1.5116035043189853,4,Rule 4: 8 consecutive on same side of centerline
+B0007,469,1.506611859399193,4,Rule 4: 8 consecutive on same side of centerline
+B0007,473,1.5015197498525221,4,Rule 4: 8 consecutive on same side of centerline
+B0007,477,1.5010235281640598,4,Rule 4: 8 consecutive on same side of centerline
+B0007,481,1.5060077366690552,4,Rule 4: 8 consecutive on same side of centerline
+B0007,483,1.5168693575881576,4,Rule 4: 8 consecutive on same side of centerline
+B0007,485,1.506127965354888,4,Rule 4: 8 consecutive on same side of centerline
+B0007,489,1.5012385247553297,4,Rule 4: 8 consecutive on same side of centerline
+B0007,493,1.4961803118983437,4,Rule 4: 8 consecutive on same side of centerline
+B0007,497,1.49101112606186,4,Rule 4: 8 consecutive on same side of centerline
+B0007,501,1.4911721882360118,4,Rule 4: 8 consecutive on same side of centerline
+B0007,505,1.4858666965307439,4,Rule 4: 8 consecutive on same side of centerline
+B0007,509,1.4807852636482064,4,Rule 4: 8 consecutive on same side of centerline
+B0007,513,1.475463006381773,4,Rule 4: 8 consecutive on same side of centerline
+B0007,517,1.4757262879778916,4,Rule 4: 8 consecutive on same side of centerline
+B0007,521,1.4709153790366938,4,Rule 4: 8 consecutive on same side of centerline
+B0007,525,1.4709004549454583,4,Rule 4: 8 consecutive on same side of centerline
+B0007,529,1.4654719834406276,4,Rule 4: 8 consecutive on same side of centerline
+B0007,533,1.4603426985699886,4,Rule 4: 8 consecutive on same side of centerline
+B0007,537,1.4609352642646058,4,Rule 4: 8 consecutive on same side of centerline
+B0007,541,1.4603803768481924,4,Rule 4: 8 consecutive on same side of centerline
+B0007,545,1.4659478953502343,4,Rule 4: 8 consecutive on same side of centerline
+B0007,548,1.4860167165609204,4,Rule 4: 8 consecutive on same side of centerline
+B0007,552,1.475938768183551,4,Rule 4: 8 consecutive on same side of centerline
+B0007,556,1.4659798857980386,4,Rule 4: 8 consecutive on same side of centerline
+B0007,560,1.4605685998191131,4,Rule 4: 8 consecutive on same side of centerline
+B0007,564,1.4556981949549759,4,Rule 4: 8 consecutive on same side of centerline
+B0007,568,1.4559679028525339,4,Rule 4: 8 consecutive on same side of centerline
+B0007,572,1.450331183172271,4,Rule 4: 8 consecutive on same side of centerline
+B0007,576,1.4448338084328112,4,Rule 4: 8 consecutive on same side of centerline
+B0007,580,1.4453753851880613,4,Rule 4: 8 consecutive on same side of centerline
+B0007,584,1.4404332302510017,4,Rule 4: 8 consecutive on same side of centerline
+B0007,588,1.4407412714460885,4,Rule 4: 8 consecutive on same side of centerline
+B0007,592,1.434976426214854,4,Rule 4: 8 consecutive on same side of centerline
+B0007,596,1.4351304036947048,4,Rule 4: 8 consecutive on same side of centerline
+B0007,600,1.4303254115437374,4,Rule 4: 8 consecutive on same side of centerline
+B0007,604,1.4304177760980343,4,Rule 4: 8 consecutive on same side of centerline
+B0007,608,1.4245759097122876,4,Rule 4: 8 consecutive on same side of centerline
+B0007,612,1.4458594275701884,4,Rule 4: 8 consecutive on same side of centerline
+B0007,614,1.4565465631206378,4,Rule 4: 8 consecutive on same side of centerline
+B0018,3,1.8683727988907475,1,Rule 1: beyond ±3σ
+B0018,27,1.8183564280802216,1,Rule 1: beyond ±3σ
+B0018,34,1.813357299319065,1,Rule 1: beyond ±3σ
+B0018,36,1.7994883639256565,1,Rule 1: beyond ±3σ
+B0018,39,1.792170110844733,1,Rule 1: beyond ±3σ
+B0018,42,1.7954094465899864,1,Rule 1: beyond ±3σ
+B0018,44,1.7857822608417238,1,Rule 1: beyond ±3σ
+B0018,46,1.7775124519859842,1,Rule 1: beyond ±3σ
+B0018,48,1.7625266947676845,1,Rule 1: beyond ±3σ
+B0018,51,1.7551646798864668,1,Rule 1: beyond ±3σ
+B0018,54,1.7525432533200365,1,Rule 1: beyond ±3σ
+B0018,56,1.7405416069184154,1,Rule 1: beyond ±3σ
+B0018,58,1.7235903149802392,1,Rule 1: beyond ±3σ
+B0018,60,1.7205153450111674,1,Rule 1: beyond ±3σ
+B0018,63,1.716630045199375,1,Rule 1: beyond ±3σ
+B0018,66,1.7583644514883705,1,Rule 1: beyond ±3σ
+B0018,68,1.747983482535042,1,Rule 1: beyond ±3σ
+B0018,70,1.7314425779203193,1,Rule 1: beyond ±3σ
+B0018,72,1.7211159709221293,1,Rule 1: beyond ±3σ
+B0018,75,1.7147150777698812,1,Rule 1: beyond ±3σ
+B0018,78,1.7033775125258277,1,Rule 1: beyond ±3σ
+B0018,80,1.6913383238843307,1,Rule 1: beyond ±3σ
+B0018,82,1.6864202936599857,1,Rule 1: beyond ±3σ
+B0018,84,1.6749815333000746,1,Rule 1: beyond ±3σ
+B0018,87,1.6667274825937854,1,Rule 1: beyond ±3σ
+B0018,90,1.6641067984902282,1,Rule 1: beyond ±3σ
+B0018,92,1.655143329076084,1,Rule 1: beyond ±3σ
+B0018,94,1.6373320351480478,1,Rule 1: beyond ±3σ
+B0018,96,1.6381990290905935,1,Rule 1: beyond ±3σ
+B0018,99,1.6300505728617423,1,Rule 1: beyond ±3σ
+B0018,102,1.69212165192729,1,Rule 1: beyond ±3σ
+B0018,104,1.659031584826147,1,Rule 1: beyond ±3σ
+B0018,106,1.6485721565398777,1,Rule 1: beyond ±3σ
+B0018,108,1.6326759577764172,1,Rule 1: beyond ±3σ
+B0018,111,1.6207496850446301,1,Rule 1: beyond ±3σ
+B0018,114,1.6117285236045238,1,Rule 1: beyond ±3σ
+B0018,117,1.7423156549420078,1,Rule 1: beyond ±3σ
+B0018,119,1.726054461250521,1,Rule 1: beyond ±3σ
+B0018,121,1.7053449248348402,1,Rule 1: beyond ±3σ
+B0018,123,1.68731573392794,1,Rule 1: beyond ±3σ
+B0018,125,1.670160754757289,1,Rule 1: beyond ±3σ
+B0018,128,1.6759541960236346,1,Rule 1: beyond ±3σ
+B0018,130,1.6627751284599415,1,Rule 1: beyond ±3σ
+B0018,132,1.6356541649302467,1,Rule 1: beyond ±3σ
+B0018,134,1.628216485878158,1,Rule 1: beyond ±3σ
+B0018,136,1.6218532177008256,1,Rule 1: beyond ±3σ
+B0018,141,1.6834563147618473,1,Rule 1: beyond ±3σ
+B0018,143,1.6502758668976973,1,Rule 1: beyond ±3σ
+B0018,145,1.6295643773236799,1,Rule 1: beyond ±3σ
+B0018,147,1.6084064283058288,1,Rule 1: beyond ±3σ
+B0018,150,1.5965167991481333,1,Rule 1: beyond ±3σ
+B0018,153,1.5899803578780916,1,Rule 1: beyond ±3σ
+B0018,155,1.5807091304933907,1,Rule 1: beyond ±3σ
+B0018,157,1.5656426929545386,1,Rule 1: beyond ±3σ
+B0018,159,1.5568230351065504,1,Rule 1: beyond ±3σ
+B0018,162,1.548821221442416,1,Rule 1: beyond ±3σ
+B0018,165,1.5483026759034488,1,Rule 1: beyond ±3σ
+B0018,167,1.5323662866419672,1,Rule 1: beyond ±3σ
+B0018,169,1.5233210513743058,1,Rule 1: beyond ±3σ
+B0018,171,1.5182983603766742,1,Rule 1: beyond ±3σ
+B0018,174,1.513233233388674,1,Rule 1: beyond ±3σ
+B0018,177,1.5505452618898514,1,Rule 1: beyond ±3σ
+B0018,179,1.5341185197626317,1,Rule 1: beyond ±3σ
+B0018,181,1.5182648319863505,1,Rule 1: beyond ±3σ
+B0018,183,1.5094570857286351,1,Rule 1: beyond ±3σ
+B0018,185,1.5004254386006994,1,Rule 1: beyond ±3σ
+B0018,188,1.4979242316045518,1,Rule 1: beyond ±3σ
+B0018,190,1.4839786746133619,1,Rule 1: beyond ±3σ
+B0018,192,1.4853375143148984,1,Rule 1: beyond ±3σ
+B0018,194,1.47537035883291,1,Rule 1: beyond ±3σ
+B0018,197,1.465230346646512,1,Rule 1: beyond ±3σ
+B0018,200,1.470153969668106,1,Rule 1: beyond ±3σ
+B0018,202,1.4530314345800834,1,Rule 1: beyond ±3σ
+B0018,204,1.4498058640319766,1,Rule 1: beyond ±3σ
+B0018,206,1.4461706765957354,1,Rule 1: beyond ±3σ
+B0018,209,1.4354893038388128,1,Rule 1: beyond ±3σ
+B0018,212,1.4874337696713922,1,Rule 1: beyond ±3σ
+B0018,214,1.470234223570346,1,Rule 1: beyond ±3σ
+B0018,216,1.453522257768359,1,Rule 1: beyond ±3σ
+B0018,218,1.446146162411028,1,Rule 1: beyond ±3σ
+B0018,220,1.4262429879848186,1,Rule 1: beyond ±3σ
+B0018,223,1.4653461068664648,1,Rule 1: beyond ±3σ
+B0018,225,1.446160092849652,1,Rule 1: beyond ±3σ
+B0018,227,1.437672085234983,1,Rule 1: beyond ±3σ
+B0018,229,1.4335912766929997,1,Rule 1: beyond ±3σ
+B0018,232,1.4237164086603935,1,Rule 1: beyond ±3σ
+B0018,235,1.4264800412761134,1,Rule 1: beyond ±3σ
+B0018,237,1.4148975484761006,1,Rule 1: beyond ±3σ
+B0018,239,1.4045805842347105,1,Rule 1: beyond ±3σ
+B0018,241,1.4003968061814789,1,Rule 1: beyond ±3σ
+B0018,244,1.3969493734241456,1,Rule 1: beyond ±3σ
+B0018,247,1.3959511508685365,1,Rule 1: beyond ±3σ
+B0018,249,1.3887139523557233,1,Rule 1: beyond ±3σ
+B0018,251,1.3844153585501675,1,Rule 1: beyond ±3σ
+B0018,253,1.3790358254456443,1,Rule 1: beyond ±3σ
+B0018,256,1.3751421317926003,1,Rule 1: beyond ±3σ
+B0018,259,1.4715777147850138,1,Rule 1: beyond ±3σ
+B0018,261,1.4612838576161555,1,Rule 1: beyond ±3σ
+B0018,263,1.4493262652033978,1,Rule 1: beyond ±3σ
+B0018,265,1.4402645289899394,1,Rule 1: beyond ±3σ
+B0018,267,1.426028472969103,1,Rule 1: beyond ±3σ
+B0018,270,1.4257777409789862,1,Rule 1: beyond ±3σ
+B0018,272,1.4101827774680211,1,Rule 1: beyond ±3σ
+B0018,274,1.4140778570334955,1,Rule 1: beyond ±3σ
+B0018,276,1.4088090765908405,1,Rule 1: beyond ±3σ
+B0018,279,1.3974079439991218,1,Rule 1: beyond ±3σ
+B0018,282,1.4070684906674908,1,Rule 1: beyond ±3σ
+B0018,284,1.387577630358133,1,Rule 1: beyond ±3σ
+B0018,286,1.383620603376466,1,Rule 1: beyond ±3σ
+B0018,288,1.3779510276789997,1,Rule 1: beyond ±3σ
+B0018,291,1.3656139421993623,1,Rule 1: beyond ±3σ
+B0018,294,1.4383670589250792,1,Rule 1: beyond ±3σ
+B0018,296,1.417948385137307,1,Rule 1: beyond ±3σ
+B0018,298,1.4126021706259548,1,Rule 1: beyond ±3σ
+B0018,300,1.399782697225631,1,Rule 1: beyond ±3σ
+B0018,302,1.3894342320681143,1,Rule 1: beyond ±3σ
+B0018,305,1.391297952141082,1,Rule 1: beyond ±3σ
+B0018,307,1.3881539238845826,1,Rule 1: beyond ±3σ
+B0018,309,1.382001788375537,1,Rule 1: beyond ±3σ
+B0018,311,1.3751032644085721,1,Rule 1: beyond ±3σ
+B0018,314,1.3635262843350822,1,Rule 1: beyond ±3σ
+B0018,317,1.3742344162448743,1,Rule 1: beyond ±3σ
+B0018,319,1.3605410437881327,1,Rule 1: beyond ±3σ
+B0018,11,1.8531673472578591,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,27,1.8183564280802216,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,30,1.8372517178195047,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,32,1.8263312789243658,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,34,1.813357299319065,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,36,1.7994883639256565,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,39,1.792170110844733,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,42,1.7954094465899864,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,44,1.7857822608417238,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,46,1.7775124519859842,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,48,1.7625266947676845,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,51,1.7551646798864668,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,54,1.7525432533200365,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,56,1.7405416069184154,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,58,1.7235903149802392,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,60,1.7205153450111674,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,63,1.716630045199375,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,66,1.7583644514883705,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,68,1.747983482535042,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,70,1.7314425779203193,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,72,1.7211159709221293,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,75,1.7147150777698812,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,78,1.7033775125258277,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,80,1.6913383238843307,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,82,1.6864202936599857,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,84,1.6749815333000746,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,87,1.6667274825937854,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,90,1.6641067984902282,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,92,1.655143329076084,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,94,1.6373320351480478,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,96,1.6381990290905935,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,99,1.6300505728617423,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,102,1.69212165192729,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,104,1.659031584826147,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,106,1.6485721565398777,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,108,1.6326759577764172,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,111,1.6207496850446301,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,114,1.6117285236045238,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,117,1.7423156549420078,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,119,1.726054461250521,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,121,1.7053449248348402,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,123,1.68731573392794,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,125,1.670160754757289,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,128,1.6759541960236346,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,130,1.6627751284599415,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,132,1.6356541649302467,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,134,1.628216485878158,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,136,1.6218532177008256,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,141,1.6834563147618473,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,143,1.6502758668976973,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,145,1.6295643773236799,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,147,1.6084064283058288,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,150,1.5965167991481333,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,153,1.5899803578780916,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,155,1.5807091304933907,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,157,1.5656426929545386,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,159,1.5568230351065504,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,162,1.548821221442416,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,165,1.5483026759034488,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,167,1.5323662866419672,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,169,1.5233210513743058,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,171,1.5182983603766742,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,174,1.513233233388674,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,177,1.5505452618898514,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,179,1.5341185197626317,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,181,1.5182648319863505,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,183,1.5094570857286351,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,185,1.5004254386006994,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,188,1.4979242316045518,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,190,1.4839786746133619,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,192,1.4853375143148984,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,194,1.47537035883291,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,197,1.465230346646512,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,200,1.470153969668106,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,202,1.4530314345800834,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,204,1.4498058640319766,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,206,1.4461706765957354,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,209,1.4354893038388128,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,212,1.4874337696713922,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,214,1.470234223570346,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,216,1.453522257768359,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,218,1.446146162411028,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,220,1.4262429879848186,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,223,1.4653461068664648,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,225,1.446160092849652,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,227,1.437672085234983,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,229,1.4335912766929997,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,232,1.4237164086603935,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,235,1.4264800412761134,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,237,1.4148975484761006,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,239,1.4045805842347105,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,241,1.4003968061814789,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,244,1.3969493734241456,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,247,1.3959511508685365,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,249,1.3887139523557233,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,251,1.3844153585501675,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,253,1.3790358254456443,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,256,1.3751421317926003,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,259,1.4715777147850138,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,261,1.4612838576161555,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,263,1.4493262652033978,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,265,1.4402645289899394,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,267,1.426028472969103,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,270,1.4257777409789862,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,272,1.4101827774680211,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,274,1.4140778570334955,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,276,1.4088090765908405,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,279,1.3974079439991218,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,282,1.4070684906674908,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,284,1.387577630358133,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,286,1.383620603376466,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,288,1.3779510276789997,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,291,1.3656139421993623,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,294,1.4383670589250792,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,296,1.417948385137307,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,298,1.4126021706259548,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,300,1.399782697225631,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,302,1.3894342320681143,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,305,1.391297952141082,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,307,1.3881539238845826,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,309,1.382001788375537,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,311,1.3751032644085721,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,314,1.3635262843350822,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,317,1.3742344162448743,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,319,1.3605410437881327,2,"Rule 2: 2 of 3 beyond ±2σ, same side"
+B0018,32,1.8263312789243658,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,34,1.813357299319065,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,36,1.7994883639256565,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,39,1.792170110844733,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,42,1.7954094465899864,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,44,1.7857822608417238,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,46,1.7775124519859842,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,48,1.7625266947676845,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,51,1.7551646798864668,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,54,1.7525432533200365,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,56,1.7405416069184154,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,58,1.7235903149802392,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,60,1.7205153450111674,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,63,1.716630045199375,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,66,1.7583644514883705,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,68,1.747983482535042,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,70,1.7314425779203193,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,72,1.7211159709221293,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,75,1.7147150777698812,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,78,1.7033775125258277,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,80,1.6913383238843307,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,82,1.6864202936599857,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,84,1.6749815333000746,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,87,1.6667274825937854,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,90,1.6641067984902282,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,92,1.655143329076084,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,94,1.6373320351480478,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,96,1.6381990290905935,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,99,1.6300505728617423,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,102,1.69212165192729,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,104,1.659031584826147,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,106,1.6485721565398777,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,108,1.6326759577764172,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,111,1.6207496850446301,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,114,1.6117285236045238,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,117,1.7423156549420078,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,119,1.726054461250521,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,121,1.7053449248348402,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,123,1.68731573392794,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,125,1.670160754757289,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,128,1.6759541960236346,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,130,1.6627751284599415,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,132,1.6356541649302467,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,134,1.628216485878158,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,136,1.6218532177008256,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,141,1.6834563147618473,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,143,1.6502758668976973,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,145,1.6295643773236799,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,147,1.6084064283058288,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,150,1.5965167991481333,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,153,1.5899803578780916,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,155,1.5807091304933907,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,157,1.5656426929545386,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,159,1.5568230351065504,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,162,1.548821221442416,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,165,1.5483026759034488,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,167,1.5323662866419672,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,169,1.5233210513743058,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,171,1.5182983603766742,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,174,1.513233233388674,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,177,1.5505452618898514,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,179,1.5341185197626317,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,181,1.5182648319863505,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,183,1.5094570857286351,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,185,1.5004254386006994,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,188,1.4979242316045518,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,190,1.4839786746133619,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,192,1.4853375143148984,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,194,1.47537035883291,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,197,1.465230346646512,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,200,1.470153969668106,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,202,1.4530314345800834,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,204,1.4498058640319766,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,206,1.4461706765957354,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,209,1.4354893038388128,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,212,1.4874337696713922,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,214,1.470234223570346,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,216,1.453522257768359,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,218,1.446146162411028,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,220,1.4262429879848186,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,223,1.4653461068664648,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,225,1.446160092849652,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,227,1.437672085234983,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,229,1.4335912766929997,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,232,1.4237164086603935,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,235,1.4264800412761134,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,237,1.4148975484761006,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,239,1.4045805842347105,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,241,1.4003968061814789,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,244,1.3969493734241456,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,247,1.3959511508685365,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,249,1.3887139523557233,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,251,1.3844153585501675,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,253,1.3790358254456443,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,256,1.3751421317926003,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,259,1.4715777147850138,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,261,1.4612838576161555,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,263,1.4493262652033978,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,265,1.4402645289899394,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,267,1.426028472969103,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,270,1.4257777409789862,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,272,1.4101827774680211,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,274,1.4140778570334955,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,276,1.4088090765908405,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,279,1.3974079439991218,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,282,1.4070684906674908,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,284,1.387577630358133,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,286,1.383620603376466,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,288,1.3779510276789997,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,291,1.3656139421993623,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,294,1.4383670589250792,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,296,1.417948385137307,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,298,1.4126021706259548,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,300,1.399782697225631,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,302,1.3894342320681143,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,305,1.391297952141082,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,307,1.3881539238845826,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,309,1.382001788375537,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,311,1.3751032644085721,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,314,1.3635262843350822,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,317,1.3742344162448743,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,319,1.3605410437881327,3,"Rule 3: 4 of 5 beyond ±1σ, same side"
+B0018,39,1.792170110844733,4,Rule 4: 8 consecutive on same side of centerline
+B0018,42,1.7954094465899864,4,Rule 4: 8 consecutive on same side of centerline
+B0018,44,1.7857822608417238,4,Rule 4: 8 consecutive on same side of centerline
+B0018,46,1.7775124519859842,4,Rule 4: 8 consecutive on same side of centerline
+B0018,48,1.7625266947676845,4,Rule 4: 8 consecutive on same side of centerline
+B0018,51,1.7551646798864668,4,Rule 4: 8 consecutive on same side of centerline
+B0018,54,1.7525432533200365,4,Rule 4: 8 consecutive on same side of centerline
+B0018,56,1.7405416069184154,4,Rule 4: 8 consecutive on same side of centerline
+B0018,58,1.7235903149802392,4,Rule 4: 8 consecutive on same side of centerline
+B0018,60,1.7205153450111674,4,Rule 4: 8 consecutive on same side of centerline
+B0018,63,1.716630045199375,4,Rule 4: 8 consecutive on same side of centerline
+B0018,66,1.7583644514883705,4,Rule 4: 8 consecutive on same side of centerline
+B0018,68,1.747983482535042,4,Rule 4: 8 consecutive on same side of centerline
+B0018,70,1.7314425779203193,4,Rule 4: 8 consecutive on same side of centerline
+B0018,72,1.7211159709221293,4,Rule 4: 8 consecutive on same side of centerline
+B0018,75,1.7147150777698812,4,Rule 4: 8 consecutive on same side of centerline
+B0018,78,1.7033775125258277,4,Rule 4: 8 consecutive on same side of centerline
+B0018,80,1.6913383238843307,4,Rule 4: 8 consecutive on same side of centerline
+B0018,82,1.6864202936599857,4,Rule 4: 8 consecutive on same side of centerline
+B0018,84,1.6749815333000746,4,Rule 4: 8 consecutive on same side of centerline
+B0018,87,1.6667274825937854,4,Rule 4: 8 consecutive on same side of centerline
+B0018,90,1.6641067984902282,4,Rule 4: 8 consecutive on same side of centerline
+B0018,92,1.655143329076084,4,Rule 4: 8 consecutive on same side of centerline
+B0018,94,1.6373320351480478,4,Rule 4: 8 consecutive on same side of centerline
+B0018,96,1.6381990290905935,4,Rule 4: 8 consecutive on same side of centerline
+B0018,99,1.6300505728617423,4,Rule 4: 8 consecutive on same side of centerline
+B0018,102,1.69212165192729,4,Rule 4: 8 consecutive on same side of centerline
+B0018,104,1.659031584826147,4,Rule 4: 8 consecutive on same side of centerline
+B0018,106,1.6485721565398777,4,Rule 4: 8 consecutive on same side of centerline
+B0018,108,1.6326759577764172,4,Rule 4: 8 consecutive on same side of centerline
+B0018,111,1.6207496850446301,4,Rule 4: 8 consecutive on same side of centerline
+B0018,114,1.6117285236045238,4,Rule 4: 8 consecutive on same side of centerline
+B0018,117,1.7423156549420078,4,Rule 4: 8 consecutive on same side of centerline
+B0018,119,1.726054461250521,4,Rule 4: 8 consecutive on same side of centerline
+B0018,121,1.7053449248348402,4,Rule 4: 8 consecutive on same side of centerline
+B0018,123,1.68731573392794,4,Rule 4: 8 consecutive on same side of centerline
+B0018,125,1.670160754757289,4,Rule 4: 8 consecutive on same side of centerline
+B0018,128,1.6759541960236346,4,Rule 4: 8 consecutive on same side of centerline
+B0018,130,1.6627751284599415,4,Rule 4: 8 consecutive on same side of centerline
+B0018,132,1.6356541649302467,4,Rule 4: 8 consecutive on same side of centerline
+B0018,134,1.628216485878158,4,Rule 4: 8 consecutive on same side of centerline
+B0018,136,1.6218532177008256,4,Rule 4: 8 consecutive on same side of centerline
+B0018,141,1.6834563147618473,4,Rule 4: 8 consecutive on same side of centerline
+B0018,143,1.6502758668976973,4,Rule 4: 8 consecutive on same side of centerline
+B0018,145,1.6295643773236799,4,Rule 4: 8 consecutive on same side of centerline
+B0018,147,1.6084064283058288,4,Rule 4: 8 consecutive on same side of centerline
+B0018,150,1.5965167991481333,4,Rule 4: 8 consecutive on same side of centerline
+B0018,153,1.5899803578780916,4,Rule 4: 8 consecutive on same side of centerline
+B0018,155,1.5807091304933907,4,Rule 4: 8 consecutive on same side of centerline
+B0018,157,1.5656426929545386,4,Rule 4: 8 consecutive on same side of centerline
+B0018,159,1.5568230351065504,4,Rule 4: 8 consecutive on same side of centerline
+B0018,162,1.548821221442416,4,Rule 4: 8 consecutive on same side of centerline
+B0018,165,1.5483026759034488,4,Rule 4: 8 consecutive on same side of centerline
+B0018,167,1.5323662866419672,4,Rule 4: 8 consecutive on same side of centerline
+B0018,169,1.5233210513743058,4,Rule 4: 8 consecutive on same side of centerline
+B0018,171,1.5182983603766742,4,Rule 4: 8 consecutive on same side of centerline
+B0018,174,1.513233233388674,4,Rule 4: 8 consecutive on same side of centerline
+B0018,177,1.5505452618898514,4,Rule 4: 8 consecutive on same side of centerline
+B0018,179,1.5341185197626317,4,Rule 4: 8 consecutive on same side of centerline
+B0018,181,1.5182648319863505,4,Rule 4: 8 consecutive on same side of centerline
+B0018,183,1.5094570857286351,4,Rule 4: 8 consecutive on same side of centerline
+B0018,185,1.5004254386006994,4,Rule 4: 8 consecutive on same side of centerline
+B0018,188,1.4979242316045518,4,Rule 4: 8 consecutive on same side of centerline
+B0018,190,1.4839786746133619,4,Rule 4: 8 consecutive on same side of centerline
+B0018,192,1.4853375143148984,4,Rule 4: 8 consecutive on same side of centerline
+B0018,194,1.47537035883291,4,Rule 4: 8 consecutive on same side of centerline
+B0018,197,1.465230346646512,4,Rule 4: 8 consecutive on same side of centerline
+B0018,200,1.470153969668106,4,Rule 4: 8 consecutive on same side of centerline
+B0018,202,1.4530314345800834,4,Rule 4: 8 consecutive on same side of centerline
+B0018,204,1.4498058640319766,4,Rule 4: 8 consecutive on same side of centerline
+B0018,206,1.4461706765957354,4,Rule 4: 8 consecutive on same side of centerline
+B0018,209,1.4354893038388128,4,Rule 4: 8 consecutive on same side of centerline
+B0018,212,1.4874337696713922,4,Rule 4: 8 consecutive on same side of centerline
+B0018,214,1.470234223570346,4,Rule 4: 8 consecutive on same side of centerline
+B0018,216,1.453522257768359,4,Rule 4: 8 consecutive on same side of centerline
+B0018,218,1.446146162411028,4,Rule 4: 8 consecutive on same side of centerline
+B0018,220,1.4262429879848186,4,Rule 4: 8 consecutive on same side of centerline
+B0018,223,1.4653461068664648,4,Rule 4: 8 consecutive on same side of centerline
+B0018,225,1.446160092849652,4,Rule 4: 8 consecutive on same side of centerline
+B0018,227,1.437672085234983,4,Rule 4: 8 consecutive on same side of centerline
+B0018,229,1.4335912766929997,4,Rule 4: 8 consecutive on same side of centerline
+B0018,232,1.4237164086603935,4,Rule 4: 8 consecutive on same side of centerline
+B0018,235,1.4264800412761134,4,Rule 4: 8 consecutive on same side of centerline
+B0018,237,1.4148975484761006,4,Rule 4: 8 consecutive on same side of centerline
+B0018,239,1.4045805842347105,4,Rule 4: 8 consecutive on same side of centerline
+B0018,241,1.4003968061814789,4,Rule 4: 8 consecutive on same side of centerline
+B0018,244,1.3969493734241456,4,Rule 4: 8 consecutive on same side of centerline
+B0018,247,1.3959511508685365,4,Rule 4: 8 consecutive on same side of centerline
+B0018,249,1.3887139523557233,4,Rule 4: 8 consecutive on same side of centerline
+B0018,251,1.3844153585501675,4,Rule 4: 8 consecutive on same side of centerline
+B0018,253,1.3790358254456443,4,Rule 4: 8 consecutive on same side of centerline
+B0018,256,1.3751421317926003,4,Rule 4: 8 consecutive on same side of centerline
+B0018,259,1.4715777147850138,4,Rule 4: 8 consecutive on same side of centerline
+B0018,261,1.4612838576161555,4,Rule 4: 8 consecutive on same side of centerline
+B0018,263,1.4493262652033978,4,Rule 4: 8 consecutive on same side of centerline
+B0018,265,1.4402645289899394,4,Rule 4: 8 consecutive on same side of centerline
+B0018,267,1.426028472969103,4,Rule 4: 8 consecutive on same side of centerline
+B0018,270,1.4257777409789862,4,Rule 4: 8 consecutive on same side of centerline
+B0018,272,1.4101827774680211,4,Rule 4: 8 consecutive on same side of centerline
+B0018,274,1.4140778570334955,4,Rule 4: 8 consecutive on same side of centerline
+B0018,276,1.4088090765908405,4,Rule 4: 8 consecutive on same side of centerline
+B0018,279,1.3974079439991218,4,Rule 4: 8 consecutive on same side of centerline
+B0018,282,1.4070684906674908,4,Rule 4: 8 consecutive on same side of centerline
+B0018,284,1.387577630358133,4,Rule 4: 8 consecutive on same side of centerline
+B0018,286,1.383620603376466,4,Rule 4: 8 consecutive on same side of centerline
+B0018,288,1.3779510276789997,4,Rule 4: 8 consecutive on same side of centerline
+B0018,291,1.3656139421993623,4,Rule 4: 8 consecutive on same side of centerline
+B0018,294,1.4383670589250792,4,Rule 4: 8 consecutive on same side of centerline
+B0018,296,1.417948385137307,4,Rule 4: 8 consecutive on same side of centerline
+B0018,298,1.4126021706259548,4,Rule 4: 8 consecutive on same side of centerline
+B0018,300,1.399782697225631,4,Rule 4: 8 consecutive on same side of centerline
+B0018,302,1.3894342320681143,4,Rule 4: 8 consecutive on same side of centerline
+B0018,305,1.391297952141082,4,Rule 4: 8 consecutive on same side of centerline
+B0018,307,1.3881539238845826,4,Rule 4: 8 consecutive on same side of centerline
+B0018,309,1.382001788375537,4,Rule 4: 8 consecutive on same side of centerline
+B0018,311,1.3751032644085721,4,Rule 4: 8 consecutive on same side of centerline
+B0018,314,1.3635262843350822,4,Rule 4: 8 consecutive on same side of centerline
+B0018,317,1.3742344162448743,4,Rule 4: 8 consecutive on same side of centerline
+B0018,319,1.3605410437881327,4,Rule 4: 8 consecutive on same side of centerline
